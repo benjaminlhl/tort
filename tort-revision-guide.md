@@ -5,7 +5,8 @@
 > Class text: **R. Glofcheski, *Tort Law in Hong Kong* (5th ed, 2023)**
 > **Assessment: 100% in-class OPEN BOOK examination** (date TBA). Because the exam is open book, this guide is built to be **scannable**: bold headings, tables and exam checklists.
 >
-> Built from my lecture notes and the lecture slides (Topic 1: Introduction; Topic 2: Duty of Care). Cases to be supplemented.
+> Built from my lecture notes and the lecture slides (Topic 1: Introduction; Topic 2: Duty of Care).
+> 📚 **Case briefs (facts, issue, rule, held) for every case cited here are in [`case-briefs.md`](case-briefs.md).**
 >
 > **Key:**
 > - **[CHECK]** = unclear or incomplete; verify against the slides or readings.
@@ -637,12 +638,12 @@ The approach is therefore **holistic** (*Luen Hing Fat*, §16.5).
 > "The proximity of relationship… is readily established: the [Airport Authority] was **responsible for security at the airport**; it was **aware that [Western Air's] plane would be parked airside**… aware that **Western Air could not (and did not) provide private security**… it ought to have been conscious that it was **the sole agency into whose care the safety of the aeroplane fell**. The respondent was therefore **uniquely dependent** on the appellant to ensure the safeguarding of its property."
 
 **Assumption of responsibility**
-> ***Michael v Chief Constable of South Wales* [2015] UKSC 2, [164] (Lord Kerr):** "It has been recognised that **proximity of relationship can exist where there is a voluntary assumption of responsibility by the police** but in cases where this issue has arisen, **rules have been strictly applied to restrict its ambit**."
+> ***Michael v Chief Constable of South Wales* [2015] UKSC 2, [164] (Lord Kerr, dissenting):** "It has been recognised that **proximity of relationship can exist where there is a voluntary assumption of responsibility by the police** but in cases where this issue has arisen, **rules have been strictly applied to restrict its ambit**."
 
 - **Police patrol example (lecture):**
   - A neighbourhood suffers burglaries and police patrol **occasionally**. Your house is burgled and you sue. **This fails: no proximity**, because there is **no proximity between the police and every member of society**.
   - **But** if officers on duty **volunteer** ("Don't worry, we'll watch your house") and the house is then burgled, your case is **stronger**, because the police **created proximity** by that promise.
-  - Even then, the rules are **"strictly applied"** (*Michael*). **[CHECK: the notes end "but fails". Confirm whether the lecturer said this claim would ultimately still fail.]**
+  - Even then, the rules are **"strictly applied"** (*Michael*). ⚠️ *Michael* was decided **5–2 against a duty**. **Lord Kerr's passages quoted in the slides come from his dissent**, so use them for argument, not as the ratio. **[CHECK: the notes end "but fails". Confirm whether the lecturer said this claim would ultimately still fail.]**
 
 **Vulnerability of P**
 > ***Lam Pak Keung v Ip Tsz Ping* [2016] 3 HKLRD 139 (Cheung JA), citing *Luen Hing Fat*:** "…the fact of **personal safety being at stake is always significant**… the policy considerations in favour of personal safety are naturally very powerful. This is particularly so where the person is in a **vulnerable position**, has **no reasonable means of protecting himself**, and thus is at a **disadvantage**."
@@ -666,7 +667,7 @@ The approach is therefore **holistic** (*Luen Hing Fat*, §16.5).
 > ***Barrett v Enfield LBC* [2001] 2 AC 550, 559 (Lord Browne-Wilkinson):** whether it is FJR "depends on **weighing in the balance the total detriment to the public interest in all cases from holding such class liable** in negligence **as against the total loss to all would-be plaintiffs** if they are not to have a cause of action…"
 
 **How judges actually decide**
-> ***Michael v CC South Wales* [2015] AC 1732, [160] (Lord Kerr):** "…courts are called on to make judgments that are informed by what they consider to be **preponderant policy considerations**. Some assessment has to be made of **what a judge considers the public interest to be; what detriment would be caused to that interest if liability were held to exist; and what harm would be done to claimants if they are denied a remedy**… These calculations are **not conducted according to fixed principle**. They will frequently… be made **without empirical evidence**. For the most part, they will be **instinctual reactions** to any given set of circumstances."
+> ***Michael v CC South Wales* [2015] AC 1732, [160] (Lord Kerr, dissenting):** "…courts are called on to make judgments that are informed by what they consider to be **preponderant policy considerations**. Some assessment has to be made of **what a judge considers the public interest to be; what detriment would be caused to that interest if liability were held to exist; and what harm would be done to claimants if they are denied a remedy**… These calculations are **not conducted according to fixed principle**. They will frequently… be made **without empirical evidence**. For the most part, they will be **instinctual reactions** to any given set of circumstances."
 
 - **Criticism:** courts **lack the staff to research and produce statistical analysis**, so policymaking is instinctive.
 
@@ -690,7 +691,7 @@ The approach is therefore **holistic** (*Luen Hing Fat*, §16.5).
 > ***Spring v Guardian Assurance plc* [1995] 2 AC 296, 326 (Lord Lowry):** "…the courts… ought to **think very carefully before resorting to public policy considerations which will defeat a claim** that ex hypothesi is a perfectly good cause of action… public policy should be invoked **only in clear cases in which the potential harm to the public is incontestable**… determined on **tangible grounds instead of on mere generalities** and… **the burden of proof lies on those who assert that the court should not enforce a liability which prima facie exists**."
 
 **Policy changes over time**
-> ***Michael*, [161] (Lord Kerr):** "…**what one group of judges felt was the correct policy answer in 2009, should not bind another group of judges, even as little as five years later**."
+> ***Michael*, [161] (Lord Kerr, dissenting):** "…**what one group of judges felt was the correct policy answer in 2009, should not bind another group of judges, even as little as five years later**."
 
 - **Example: advocates' immunity.** *Rondel v Worsley* [1969] 1 AC 191 gave advocates immunity. ***Arthur JS Hall & Co v Simons* [2002] 1 AC 615** declined to follow it.
 
@@ -785,7 +786,7 @@ The approach is therefore **holistic** (*Luen Hing Fat*, §16.5).
 ### 21.3 *Mitchell v Glasgow City Council* [2009] UKHL 11, [2009] 1 AC 874: scope not extended
 - **Established duty:** a **landlord owes duties to its tenants**, e.g. to provide a **liveable property**.
 - **Issue:** does that duty extend to **warning a tenant about a violent fellow tenant**?
-- **Facts:** the council knew the other tenant had **previously threatened his neighbour** (Mitchell). The council met the tenant about his behaviour and possible **eviction**, and he became **very angry**. He then **killed Mitchell**. Mitchell's family sued in negligence for **failing to warn** him. **[CHECK facts against the case]**
+- **Facts:** the council's tenant **Drummond** had **previously threatened to kill his neighbour** (Mitchell). The council held a meeting warning Drummond about possible **eviction**, and he became **very angry**. He went home and **killed Mitchell with an iron bar**. Mitchell's family sued in negligence for the council's **failure to warn** him.
 - **Held: no DOC.**
   - **Foreseeability of harm is not enough** to create a duty to protect against a **third party's criminal act** (the omissions rule, §20).
   - **FJR:** a duty to **warn neighbours** would **deter landlords from acting**, e.g. trying to evict. *(The lecturer questioned how convincing this argument is.)*
@@ -1036,9 +1037,9 @@ The approach is therefore **holistic** (*Luen Hing Fat*, §16.5).
 4. **Bouncer / leather example**: what point was it making? (§21.1)
 5. Any further **exceptions to the omissions rule** (§20)?
 6. Authority for a **child driving a car** being held to the adult standard (§25.3).
-7. Confirm the ***Mitchell* facts** (§21.3).
-8. The **drug dealers** illegality case (§14).
-9. The **McDonald's** case (§5).
+7. The **drug dealers** illegality case (§14).
+8. The **McDonald's** case (§5).
+9. HK cases on who can be sued (§11.2): facts not covered; see `case-briefs.md`.
 
 ## Appendix E — Reading list
 
