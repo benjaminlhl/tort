@@ -6,7 +6,7 @@
 > **Assessment: 100% in-class OPEN BOOK examination** (date TBA). Because the exam is open book, this guide is built to be **scannable**: bold headings, tables and exam checklists.
 >
 > Built from my lecture notes and the lecture slides (Topic 1: Introduction; Topic 2: Duty of Care).
-> 📚 **Case briefs (facts, issue, rule, held) for every case cited are in [Appendix A](#appendix-a--case-briefs-irac).**
+> 📚 **Case briefs (facts, issue, rule, held) for every case cited appear as 📘 boxes where each case is discussed; see the [case index](#appendix-a--case-index).**
 >
 > **Key:**
 > - **[CHECK]** = unclear or incomplete; verify against the slides or readings.
@@ -67,7 +67,7 @@
 25. [How objective is the objective standard?](#25-how-objective-is-the-objective-standard)
 
 **Appendices**
-- [A. Case briefs (IRAC)](#appendix-a--case-briefs-irac)
+- [A. Case index](#appendix-a--case-index)
 - [B. Statutes and constitutional provisions](#appendix-b--statutes-and-constitutional-provisions)
 - [C. One-page summary](#appendix-c--one-page-summary)
 - [D. Open questions](#appendix-d--open-questions-check-against-slides)
@@ -102,6 +102,13 @@
 - **Concurrent liability:** liability can arise in **both contract and tort from the same facts**: ***Henderson v Merrett Syndicates Ltd* [1995]**. If so, the **content of the tort duty may be affected by the contract** between P and D.
 - The rules on **remoteness, assessment of damages and limitation periods can differ** between contract and tort.
 - *Link:* in *Donoghue v Stevenson* (§15), P had **no contract**, so tort was her only route.
+
+> 📘 **Case brief — *Henderson v Merrett Syndicates Ltd* [1995] 2 AC 145 (HL)**
+>
+> - **F:** Lloyd's "Names" (investors) lost money through the negligent underwriting of the managing agents, with whom some Names also had contracts.
+> - **I:** Can D be liable in tort when there is also a contract covering the same conduct?
+> - **R:** **Concurrent liability.** A duty in tort (assumption of responsibility) can co-exist with a contractual duty, and P may choose the more advantageous claim.
+> - **H:** The agents owed a duty of care in tort, **so the Names could sue in negligence**.
 
 ---
 
@@ -143,6 +150,13 @@ In early English common law, **procedure reigned supreme**. To sue, you had to f
 - Tort law became a **system of moral responsibility**. Today the question is "**was it an accident (negligence) or on purpose (intentional tort)?**", not "was it direct or indirect?"
 
 > ***Letang v Cooper* [1965] 1 QB 232 (CA), Lord Denning:** "If he does not inflict injury intentionally, but only unintentionally, the plaintiff has no cause of action today in trespass. His only cause of action is in negligence, and then only on proof of want of reasonable care… it is not enough nowadays for the plaintiff to plead that 'the defendant shot the plaintiff.' He must also allege that he did it **intentionally or negligently**. If intentional, it is the tort of **assault and battery**. If negligent and causing damage, it is the tort of **negligence**."
+
+> 📘 **Case brief — *Letang v Cooper* [1965] 1 QB 232 (CA)**
+>
+> - **F:** P was sunbathing on a hotel car park when D **drove over her legs**. She sued more than 3 years later, framing the claim as **trespass** to escape the 3-year limit for negligence.
+> - **I:** Can an **unintentional** direct injury be sued as trespass?
+> - **R:** **Intentional** direct harm = trespass (assault/battery). **Unintentional** harm = **negligence only**, and requires proof of want of reasonable care (Lord Denning).
+> - **H:** The claim was in substance negligence, so it was **time-barred**.
 
 ### 3.4 The dominance of negligence (the last 100 years)
 Modern tort law is a **patchwork** of principles and separate torts, **not a single unified theory**. It has been shaped by:
@@ -201,6 +215,13 @@ Shifting loss through tort **generally relies on fault**. Basing liability on fa
 4. **At the damages stage**, when considering **punitive/exemplary damages** (§12). These may be appropriate where D was **genuinely reckless as to P's wellbeing**, e.g. D ignored safety for the sake of profits.
    - Lecture example: the **McDonald's hot coffee case**. **[CASE TBC]** *(likely* Liebeck v McDonald's Restaurants *(1994, USA))*
 
+> 📘 **Case brief — *Liebeck v McDonald's Restaurants* (New Mexico, 1994) **[CHECK: confirm this was the lecture example]****
+>
+> - **F:** A 79-year-old woman spilled McDonald's coffee, which was served at a very high temperature, and suffered **third-degree burns**. McDonald's had known of hundreds of prior burn complaints.
+> - **I:** Were punitive damages justified?
+> - **R:** Punitive damages can be awarded where D shows **reckless disregard** for customers' safety, e.g. for profit.
+> - **H:** The jury awarded compensatory damages plus about **US$2.7m in punitive damages**, later reduced by the judge.
+
 ---
 
 ## 6. Aims and functions of tort law
@@ -231,9 +252,23 @@ Shifting loss through tort **generally relies on fault**. Basing liability on fa
 - **Only legally recognised injuries or losses are compensable** (§9).
 - ***Livingstone v Rawyards Coal Co* (1880) 5 App Cas 25, Lord Blackburn:** damages are "the sum of money which will **put the party who has been injured… in the same position as he would have been in if he had not sustained the wrong**".
 
+> 📘 **Case brief — *Livingstone v Rawyards Coal Co* (1880) 5 App Cas 25 (HL)**
+>
+> - **F:** D mined coal under P's land, honestly believing D had the right to it.
+> - **I:** How should damages be measured?
+> - **R:** Damages should **put P in the same position as if the wrong had not occurred** (Lord Blackburn): the **compensatory principle**.
+> - **H:** Damages were assessed on that compensatory basis.
+
 ### 6.4 Doing justice
 - ***Vellino v Chief Constable of Greater Manchester* [2002] 1 WLR 218 (CA), Sedley LJ (dissenting):** the police negligently allowed an arrested man to try to escape, and he was injured. The majority denied recovery because of his own offending. Sedley LJ said: "To deny the claimant redress in such a situation because of his own offending is both to **make him an outlaw and to reward the misconduct of his captors**. To **apportion responsibility**… is in my view **to do justice**."
 - *Link:* this is related to **illegality** as a DOC filter (§14).
+
+> 📘 **Case brief — *Vellino v Chief Constable of Greater Manchester* [2002] 1 WLR 218 (CA)**
+>
+> - **F:** P, who was known to escape arrest by jumping from his flat, was arrested and **jumped from a second-floor window** while the officers did nothing. He was severely injured and sued the police.
+> - **I:** Did the police owe a duty to stop an arrested person injuring himself while escaping? Is the claim barred by his crime?
+> - **R:** **Illegality (*ex turpi causa*):** a claimant cannot recover for injury suffered while committing a serious crime (escaping lawful custody).
+> - **H:** **Claim failed (majority).** **Sedley LJ dissented**: denying redress "makes him an outlaw" and "rewards the misconduct of his captors"; apportioning responsibility would "do justice".
 
 ### 6.5 Deterrence
 - **Specific deterrence:** aimed at the **individual D**.
@@ -367,6 +402,20 @@ Tort also operates on a **macro level**, balancing **societal costs and behaviou
 | **Government officials** | *Li Ngan Shui Brumen v Official Receiver* [1995] 1 HKC 133 |
 | **Statutory bodies** | *Cheng Wai Leung v Pneumoconiosis Compensation Fund Board* [1990] 2 HKC 333 |
 
+> 📘 **Case brief — Who can be sued: illustrative HK cases**
+>
+> The slides cite these **only to show who can be sued**. Their facts were not covered. **[CHECK in Glofcheski if needed]**
+>
+> | Case | D | Point |
+> |---|---|---|
+> | *McHale v Watson* [1966] ALR 513 (see Part C) | Child | Children can be sued; the standard is adjusted for age |
+> | *Leung Kwok Lung v Ling Wai* [2010] HKEC 544 | Child | Children can be sued in HK |
+> | *Chau Chui Ping v Cathay Pacific Airways Ltd* (2006) HCPI 261/2003 | Corporation | Companies can be sued in tort |
+> | *Aberdeen Winner Investments v IO of Albert House* [2004] 3 HKLRD 910 | Incorporated owners (building owners' corporation) | Owners' corporations can be liable for the condition of the building (the case arose from the **Albert House canopy collapse**, Sheung Wan, 1994) **[CHECK]** |
+> | *Wong Tai Wai v HKSAR Government* (2004) CACV 19 & 247/2003 | The Government | The Government can be sued in tort |
+> | *Li Ngan Shui Brumen v Official Receiver* [1995] 1 HKC 133 | Government official | Officials can be sued |
+> | *Cheng Wai Leung v Pneumoconiosis Compensation Fund Board* [1990] 2 HKC 333 | Statutory body | Statutory bodies can be sued |
+
 ### 11.3 Immunities
 - An **immunity** protects a person **from being sued**. Because it **leaves an injured party without redress**, it **must be based on compelling public policy grounds**. Immunity is **usually not available**.
 
@@ -385,6 +434,22 @@ Tort also operates on a **macro level**, balancing **societal costs and behaviou
   - **Police**, for conduct in **investigating or preventing crime**: ***Hill v Chief Constable of West Yorkshire* [1989] AC 53 (HL)**; ***Robinson v Chief Constable of West Yorkshire Police* [2018] AC 736** (§19).
   - **Soldiers engaging the enemy** in hostilities: ***Smith v Ministry of Defence* [2014] 1 AC 52**.
 - **Common law immunities can be revoked or restricted.** E.g. **advocates' immunity** has been **abolished in the UK** but **not yet decided in HK**: ***HKSAR v Hung Chan Wa* (2006) 9 HKCFAR 614** (§18.4).
+
+> 📘 **Case brief — *Smith v Ministry of Defence* [2013] UKSC 41, [2014] 1 AC 52**
+>
+> - **F:** Families of British soldiers killed in Iraq (in lightly armoured "Snatch" Land Rovers, and in a "friendly fire" tank incident) sued the MoD for failing to provide proper equipment and training.
+> - **I:** Does **combat immunity** bar the claims?
+> - **R:** No DOC is owed to **soldiers actively engaging the enemy** (combat immunity), but the immunity is **construed narrowly**.
+> - **H:** Decisions about **equipment and training taken away from the battlefield** were not covered, so the **claims were allowed to proceed** (not struck out).
+
+> 📘 **Case brief — *HKSAR v Hung Chan Wa* (2006) 9 HKCFAR 614 (CFA)**
+>
+> - **F:** A criminal appeal on the **statutory presumptions in the Dangerous Drugs Ordinance**. It involved the CFA's approach to **departing from earlier authority**. **[CHECK]**
+> - **I (tort relevance):** Does changing a rule mean the earlier decision was wrong?
+> - **R:** Precedent may be **reconsidered in the light of changed circumstances**. E.g. *Arthur JS Hall v Simons* departed from *Rondel v Worsley* on advocates' immunity **without saying *Rondel* was wrongly decided** (Li CJ, [31]).
+> - **H (tort point):** **Advocates' immunity remains undecided in HK.**
+>
+> ---
 
 ---
 
@@ -456,6 +521,14 @@ The DOC **acts as a legal filter**. It lets courts **set boundaries on negligenc
 | **2. Type of loss** | **Excluded entirely:** non-actionable harms like **mere "injured feelings"**. **Strictly restricted:** harder-to-prove or expansive losses, i.e. **pure economic loss** and **psychiatric injury**. | Psychiatric harm from seeing a close relative severely injured: often **no DOC owed to you** (*Alcock v CC South Yorkshire* [1992] 1 AC 310, §18.3). |
 | **3. Type of person / relationship** | **Excluding or limiting D's responsibility** towards certain groups, such as **those voluntarily participating in inherently risky activities** | E.g. *Grimes v Hawkins* (§18.4), an adult diving into a pool |
 
+> 📘 **Case brief — Drug dealers stabbing **[CASE TBC]****
+>
+> - **F:** Two drug dealers were packing drugs and **one accidentally stabbed the other**.
+> - **R:** **Illegality / joint illegal enterprise.** No DOC is owed between participants in a joint crime.
+> - **H:** **No DOC.** (Compare *Vellino*.)
+>
+> ---
+
 ---
 
 ## 15. *Donoghue v Stevenson* (1932) and the neighbour principle
@@ -464,6 +537,13 @@ The DOC **acts as a legal filter**. It lets courts **set boundaries on negligenc
 - A DOC was owed **only if the P–D relationship fell into a recognised category**.
   - E.g. ***Heaven v Pender* (1883) 11 QBD 503 (CA)**: the majority found liability because P was D's **"invitee"**. Contrast **Brett MR's "larger principle"**, a forerunner of the neighbour principle.
 - In 1932 Lord Atkin formulated the **neighbour principle**, a **general conception of relationships giving rise to a DOC**. This **opened the gates** and led to a **dramatic expansion of negligence**.
+
+> 📘 **Case brief — *Heaven v Pender* (1883) 11 QBD 503 (CA)**
+>
+> - **F:** A painter working on a ship in D's dry dock was injured when **staging ropes supplied by D** broke.
+> - **I:** Did D owe a DOC to a worker with whom D had no contract?
+> - **R (majority):** A duty was owed because P was D's **"invitee"** (a recognised category). **Brett MR** proposed a wider **"larger principle"** based on foresight of danger, a forerunner of the neighbour principle.
+> - **H:** **D was liable.**
 
 ### 15.2 Facts
 - In **August 1928**, Mrs May Donoghue went to a café in **Paisley, Scotland**, where **a friend bought her** a ginger beer ice cream float.
@@ -489,6 +569,13 @@ The DOC **acts as a legal filter**. It lets courts **set boundaries on negligenc
 | Content | The **neighbour principle**: a general test for a DOC | **Manufacturer → ultimate consumer** |
 | Significance | Foundation of modern negligence | **Foundation of the modern commercial economy.** Consumers can **trust that products meet a standard of reasonable care**, from food and drink (Coca-Cola, crisps) to non-food items (earbuds bought online). |
 
+> 📘 **Case brief — *Donoghue v Stevenson* [1932] AC 562 (HL)**
+>
+> - **F:** A friend bought P a **ginger beer** in a café in Paisley. It came in an **opaque bottle** containing a **decomposed snail**, and she suffered **shock and gastroenteritis**. She had **no contract**, so she sued the **manufacturer**.
+> - **I:** Does a manufacturer owe a DOC to the **ultimate consumer**, with whom it has no contract?
+> - **R:** **The neighbour principle:** take reasonable care to avoid acts or omissions you can reasonably foresee would injure your neighbour. **Narrow ratio:** a manufacturer owes a DOC to the ultimate consumer where there is **no reasonable possibility of intermediate examination**.
+> - **H:** **DOC owed (3–2).**
+
 ---
 
 ## 16. Landmark decisions after 1932
@@ -498,6 +585,13 @@ After *Donoghue*, a duty **based on reasonable foreseeability of harm and proxim
 ### 16.1 *Hedley Byrne & Co v Heller & Partners* [1964] AC 465: pure economic loss
 - Negligence liability for a **misstatement causing pure economic loss** where there is a **special relationship**.
 - PEL is **generally not recoverable**, **unless** there is a special relationship with an adviser who **assumed responsibility**, and the adviser was negligent (e.g. did no proper research).
+
+> 📘 **Case brief — *Hedley Byrne & Co v Heller & Partners* [1964] AC 465 (HL)**
+>
+> - **F:** P (advertising agents) asked D, a bank, about a client's creditworthiness. D gave a favourable reference **"without responsibility"**. The client collapsed and P lost money.
+> - **I:** Can a **negligent misstatement** causing **pure economic loss** give rise to liability?
+> - **R:** Yes, where there is a **special relationship**, i.e. D **assumes responsibility** and P **reasonably relies**.
+> - **H:** A duty could arise in principle, **but the disclaimer excluded liability**, so **D was not liable**.
 
 ### 16.2 *Home Office v Dorset Yacht Co Ltd* [1970] AC 1004: omissions and third-party acts
 **Facts**
@@ -521,11 +615,25 @@ After *Donoghue*, a duty **based on reasonable foreseeability of harm and proxim
 | **Non-justiciable.** You **cannot sue the Government over a policy decision you disagree with**. | **Reviewable.** A claim **can proceed**. |
 | *E.g.* you trip in a HK park and argue "if the Government hadn't spent so much helping the wealthy, I wouldn't have tripped". **This fails.** | *E.g.* a **particular failure of maintenance** caused the trip. **This may proceed.** |
 
+> 📘 **Case brief — *Home Office v Dorset Yacht Co Ltd* [1970] AC 1004 (HL)**
+>
+> - **F:** Borstal trainees on Brownsea Island escaped while **all three supervising officers slept**, contrary to orders. They **damaged P's yacht**.
+> - **I:** Does D owe a DOC for **omissions** or **third parties' acts**?
+> - **R:** A **special relationship of control** over the third party creates an exception to the omissions rule. **Policy decisions are non-justiciable; operational negligence is actionable.** A third party's crime does not break causation if it was **highly probable**.
+> - **H:** **DOC owed** (Lord Diplock).
+
 ### 16.3 *Anns v Merton LBC* [1978] AC 728: the two-stage test
 1. Is there a **sufficient relationship of proximity**? If so, there is a **prima facie duty**.
 2. Are there **public policy considerations that negate or restrict** the duty?
 
 - This test **proved too wide** and was **replaced by *Caparo***.
+
+> 📘 **Case brief — *Anns v Merton LBC* [1978] AC 728 (HL)**
+>
+> - **F:** A council negligently inspected a building's **foundations**, and the flats later cracked.
+> - **I:** When is a DOC owed?
+> - **R:** A **two-stage test:** (1) sufficient proximity, giving a prima facie duty; (2) policy reasons to negate or restrict it.
+> - **H:** **The council could owe a DOC.** The test later **proved too wide** and was replaced by *Caparo* (*Anns* was overruled by *Murphy v Brentwood DC* [1991]).
 
 ### 16.4 *Caparo Industries plc v Dickman* [1990] 2 AC 605: the three-stage approach
 1. **Foreseeability** of harm to P
@@ -533,6 +641,13 @@ After *Donoghue*, a duty **based on reasonable foreseeability of harm and proxim
 3. It is **"fair, just and reasonable"** to impose a DOC. **These words call for public policy considerations**, looking **beyond the two parties** to society as a whole.
 
 > **Lord Bridge (at 618):** "[I]n addition to the **foreseeability of damage**, necessary ingredients in any situation giving rise to a duty of care are that there should exist between the party owing the duty and the party to whom it is owed a relationship characterised by the law as one of '**proximity**' or '**neighbourhood**' and that the situation should be one in which the court considers it **fair, just and reasonable** that the law should impose a duty **of a given scope** on the one party for the benefit of the other."
+
+> 📘 **Case brief — *Caparo Industries plc v Dickman* [1990] 2 AC 605 (HL)**
+>
+> - **F:** P bought shares in Fidelity plc and then **took it over**, relying on accounts audited by D that **overstated profits**.
+> - **I:** Did the auditors owe a DOC to **investors** or **existing shareholders buying more shares**?
+> - **R:** The **three-stage approach**: foreseeability, proximity, FJR. These are "**convenient labels**". **Scope** must be determined "by reference to the kind of damage". The audit is for **shareholders as a body** to oversee management, not for investment decisions.
+> - **H:** **No DOC.** P was acting as an ordinary **market participant**.
 
 ### 16.5 *Caparo* in Hong Kong
 
@@ -553,6 +668,20 @@ After *Donoghue*, a duty **based on reasonable foreseeability of harm and proxim
 - **Bokhary PJ "turned *Caparo* on its head"** by using **policy arguments to *expand* liability** and "provide such fresh or adapted solutions as may be needed".
 - 💡 **Essay point:** HK's approach to FJR may be **more expansive** than the UK's post-*Robinson* approach.
 
+> 📘 **Case brief — *Luen Hing Fat Coating & Finishing Factory Ltd v Waan Chuen Ming* (2011) 14 HKCFAR 14 (CFA)**
+>
+> - **F:** A factory occupier hired an **independent contractor** to repair a machine and **lent its own equipment** (pallet jacks, a trolley) to move a **1.5-tonne part**. The part fell and injured **the contractor's worker** (P).
+> - **I:** Did the **occupier** owe a DOC to **the contractor's employee**? What is HK's test for a DOC?
+> - **R:** The elements of negligence are duty, breach, damage and remoteness. **HK adopts *Caparo*, applied holistically.** "Stand back and take a holistic view"; the three stages "overlap… facets of the same thing". **FJR can ground a duty.** Where **personal safety** is at stake, that is always significant.
+> - **H:** **DOC owed; the occupier was liable** even though the equipment was not intrinsically dangerous.
+
+> 📘 **Case brief — *Yeung Kai Yuen v Cinerent Ltd* [2014] HKEC 633**
+>
+> - **F:** A personal injury case about an **electricity leakage** in an employment setting. **[CHECK details]**
+> - **I:** Was a DOC owed, and how does HK apply *Caparo*?
+> - **R:** Andrew Li J reviewed the UK and HK law. *Caparo* is the "**fairness and three stage test**"; FJR is "ordinary reason and common sense"; FJR can **ground** a duty (*Luen Hing Fat*).
+> - **H:** **D was held 100% liable.** **[CHECK]**
+
 ---
 
 ## 17. The current approach to establishing a DOC
@@ -567,6 +696,20 @@ If the existence (or non-existence) of a DOC is **well established by precedent,
 > ***Robinson*, [21] (Lord Reed):** "The proposition that there is a *Caparo* test which applies to all claims in the modern law of negligence… **is mistaken**… that understanding of the case **mistakes the whole point of *Caparo***, which was to **repudiate the idea that there is a single test**… and instead to adopt an approach based… on **precedent**, and on the development of the law **incrementally and by analogy with established authorities**."
 
 > ***N v Poole Borough Council* [2020] AC 780, [64] (Lord Reed):** "*Robinson* did not lay down any new principle of law… *Caparo* did not impose a universal tripartite test… but recommended an **incremental approach to novel situations**, based on the use of **established categories of liability as guides, by analogy**, to the existence and scope of a duty of care… The question whether the imposition of a duty of care would be fair, just and reasonable **forms part of the assessment of whether such an incremental step ought to be taken**… in the ordinary run of cases, courts should **apply established principles of law, rather than basing their decisions on their assessment of the requirements of public policy**."
+
+> 📘 **Case brief — *Robinson v Chief Constable of West Yorkshire Police* [2018] UKSC 4, [2018] AC 736**
+>
+> - **F:** Officers arresting a suspected drug dealer on a Huddersfield street **knocked over P, an elderly passer-by**, in the struggle.
+> - **I:** Did the police owe P a DOC? Must *Caparo* be applied in every case?
+> - **R:** ***Caparo* is not a universal test.** Follow **established categories** and move **incrementally** in novel cases. **Police are not immune**: they owe a DOC for **positive acts** that cause foreseeable **physical injury**, though generally not for failing to protect from third parties.
+> - **H:** **DOC owed and breached. The police were liable.**
+
+> 📘 **Case brief — *N v Poole Borough Council* [2019] UKSC 25, [2020] AC 780**
+>
+> - **F:** The council housed a mother and two children next to a family who **harassed and abused them for years**. The children sued the council for failing to **protect or remove** them.
+> - **I:** Did the council owe a DOC to protect them from **third parties**?
+> - **R:** PAs are subject to the **same principles as private persons**. Merely having **statutory powers or duties** does not amount to an **assumption of responsibility**. There is **no general duty to protect** from third parties.
+> - **H:** **No DOC.** The claim was struck out.
 
 ### 17.2 Step-by-step method
 
@@ -591,6 +734,13 @@ STEP 3  Use the Caparo factors to guide and structure the analysis
 - **Ng J:** "In my view, **the local courts will have to find its own way and set its own incremental pace** for the development of the law in this area."
 - **Lesson:** survey the relevant precedents. If the area is **not clearly settled**, the court **cannot simply rely on established precedent**. It moves forward **incrementally**, looking at the issue afresh.
 
+> 📘 **Case brief — *Liu Shih Teng v HKCC Dotcod Ltd* [2022] HKCFI 474**
+>
+> - **F:** The deceased ate and drank at D's restaurant, then **fell backwards down a staircase** while leaving and died. The administrator sued in negligence and sought to **amend the claim** to allege D kept serving alcohol despite knowing he might be drunk (contrary to the **liquor licence conditions**).
+> - **I:** Does a commercial host owe a DOC to patrons it serves alcohol to ("**alcohol liability**")?
+> - **R:** International common law authority is **divergent**, so this is not a settled category. The **local courts "will have to find its own way and set its own incremental pace"** (Ng J).
+> - **H:** The court treated this as a **novel area for incremental development**. **[CHECK: outcome of the amendment application]**
+
 ### 17.4 Worked example: is it an established category? *Darnley v Croydon Health Services NHS Trust* [2018] UKSC 50, [2019] AC 831
 > **Facts:** a hospital receptionist **carelessly gave a wrong (too long) estimate of the waiting time**. A person in medical need **left** and **suffered injury**. Does this fall within the established duty of a **healthcare provider not to cause physical injury to a patient**?
 
@@ -602,6 +752,13 @@ STEP 3  Use the Caparo factors to guide and structure the analysis
 3. **Scope of duty:** the duty **extends to not giving misleading information** that may foreseeably cause physical injury (§21.2).
 
 > 💡 **Exam technique:** where the category is borderline, **argue it both ways**. First argue it falls within an established category, using *Darnley*-style reasoning (closeness of the relationship; whether P was "booked into the system"). Then say: "Alternatively, if this is a novel situation, the court would proceed incrementally, guided by *Caparo*…" and work through the three factors.
+
+> 📘 **Case brief — *Darnley v Croydon Health Services NHS Trust* [2018] UKSC 50, [2019] AC 831**
+>
+> - **F:** P arrived at A&E with a **head injury**. The **receptionist** told him he would wait **4–5 hours**, when in fact a triage nurse would have seen him within about 30 minutes. He **left**, collapsed at home, and suffered **permanent brain damage**.
+> - **I:** Does the hospital's duty extend to **non-medical staff** giving **information**?
+> - **R:** Once "**booked in**", P is in an **established patient–healthcare provider relationship**. There is **no distinction between medical and non-medical staff**. The **scope** of the duty covers **not giving misleading information** that may foreseeably cause physical injury.
+> - **H:** **DOC owed and breached. The hospital was liable.**
 
 ---
 
@@ -620,6 +777,13 @@ The approach is therefore **holistic** (*Luen Hing Fat*, §16.5).
 > ***Airport Authority v Western Air Ltd* [2020] UKPC 29, [43] (Lord Kerr):** "Although the **theft of an aircraft is a highly unusual occurrence**, the **exact nature of harm need not be precisely foreseen**. It is enough that **the possibility of harm to unguarded aircraft was to be anticipated**. The very existence of a **perimeter fence, restricted access to the airfield and the provision of patrols** are all testament to the ready foreseeability of the occurrence."
 
 - **In short:** D's negligence allowed an aircraft to be **stolen**. D argued the event was too unusual to be foreseeable, and the argument was **rejected**.
+
+> 📘 **Case brief — *Airport Authority v Western Air Ltd* [2020] UKPC 29 (Privy Council, from the Bahamas)**
+>
+> - **F:** Western Air's **aircraft, parked airside, was stolen**. The Airport Authority was responsible for airport security. Western Air could not provide its own security.
+> - **I:** Was theft foreseeable, and was there proximity?
+> - **R:** **The exact harm need not be foreseen**; the possibility of harm to unguarded aircraft was enough. **Proximity** arose because the Authority was the **sole agency** responsible for the plane's safety and P was **uniquely dependent** on it (vulnerability).
+> - **H:** **DOC owed. The Authority was liable.**
 
 ### 18.3 Proximity
 - Proximity is **elusive and difficult to define**, yet **often the critical factor**. A court may find **foreseeability but no DOC because proximity is lacking**.
@@ -657,6 +821,27 @@ The approach is therefore **holistic** (*Luen Hing Fat*, §16.5).
 | **Psychiatric injury** | ***Alcock v CC South Yorkshire* [1992] 1 AC 310** |
 
 > **Important point:** *Caparo* is **not only a limiting tool**. **Proximity (and, in HK, FJR) can be used to *create or expand* a DOC**. This is **incremental expansion**.
+
+> 📘 **Case brief — *Michael v Chief Constable of South Wales Police* [2015] UKSC 2, [2015] AC 1732**
+>
+> - **F:** Joanna Michael made a **999 call** saying her ex-partner had threatened to kill her. The call was mishandled and graded as non-urgent. The police arrived after she had been **stabbed to death**.
+> - **I:** Did the police owe her a DOC to protect her from a **third party**?
+> - **R:** **No general duty to protect from third parties.** Exceptions such as **assumption of responsibility** are **strictly applied**. **Policy:** the financial burden on the police budget (Lord Toulson, [122]).
+> - **H:** **No DOC (5–2).** ⚠️ **Lord Kerr** (quoted on the slides at [160], [161] and [164]) and Lady Hale **dissented**. His views on policy and FJR are **dissenting remarks**, useful for arguments but not the ratio.
+
+> 📘 **Case brief — *Lam Pak Keung v Ip Tsz Ping* [2016] 3 HKLRD 139 (CA)**
+>
+> - **F:** P, a labourer employed by a **subcontractor**, was unloading a container at a freight terminal leased by D3. A forklift left **unattended with its engine running** moved forward and **impaled P's calf**.
+> - **I:** Did D3 (the terminal lessee, not P's employer) owe P a DOC to **control forklift traffic**?
+> - **R:** Proximity can arise from P's **vulnerability**, and **personal safety** considerations are "very powerful" where P has **no reasonable means of self-protection** (citing *Luen Hing Fat*).
+> - **H:** **DOC owed and breached** (no traffic controller). **D3 was liable.**
+
+> 📘 **Case brief — *Alcock v Chief Constable of South Yorkshire* [1992] 1 AC 310 (HL)**
+>
+> - **F:** Relatives of fans crushed at the **Hillsborough** stadium disaster suffered **psychiatric injury** after watching it at the ground or on TV, or identifying bodies.
+> - **I:** When do **secondary victims** of psychiatric harm have a claim?
+> - **R:** They need **close ties of love and affection**, **proximity in time and space** to the event or its immediate aftermath, and **perception with their own unaided senses**.
+> - **H:** **All the claims failed.**
 
 ### 18.4 Fair, just and reasonable (public policy)
 **The idea**
@@ -697,6 +882,48 @@ The approach is therefore **holistic** (*Luen Hing Fat*, §16.5).
 
 > ***HKSAR v Hung Chan Wa* (2006) 9 HKCFAR 614, [31] (Li CJ):** this "did not mean that *Rondel v Worsley* was wrongly decided. Rather the question was **reconsidered over three decades later in the light of changes in the law of negligence, the functioning of the legal profession, the administration of justice and public perceptions**."
 
+> 📘 **Case brief — *Barrett v Enfield LBC* [2001] 2 AC 550 (HL)**
+>
+> - **F:** P spent his childhood **in council care** and claimed the council's decisions (placements, failure to arrange adoption) caused him psychiatric harm.
+> - **I:** Should the claim be struck out as non-justiciable or not FJR?
+> - **R:** FJR requires **weighing the total detriment to the public interest against the total loss to all would-be claimants** (Lord Browne-Wilkinson).
+> - **H:** **The claim was not struck out** and went to trial.
+
+> 📘 **Case brief — *Grimes v Hawkins* [2011] EWHC 2004 (QB)**
+>
+> - **F:** Kylie Grimes, aged 18, **dived into D's private pool**, hit her head, and became tetraplegic. She alleged D should have **locked the pool** or put up **"no diving" signs**.
+> - **I:** Was it FJR to impose a DOC on the pool owner?
+> - **R:** An **adult who voluntarily takes an obvious risk** is not owed a duty to be protected from it. Consider the **broader social implications** for other pool owners.
+> - **H:** **No DOC** (Thirlwall J). It was not FJR to require D to put the pool out of bounds or ban adults from diving.
+
+> 📘 **Case brief — *Customs and Excise Commissioners v Barclays Bank plc* [2006] UKHL 28, [2007] 1 AC 181**
+>
+> - **F:** Customs obtained **freezing orders** over customers' accounts. The bank **negligently allowed payments out** within hours, and Customs lost the money.
+> - **I:** Did the bank owe Customs a DOC (pure economic loss)?
+> - **R:** For **physical injury, foreseeability is usually enough**. For **economic loss, "something more is needed"**, such as an assumption of responsibility.
+> - **H:** **No DOC.** Complying with a court order is not a voluntary assumption of responsibility.
+
+> 📘 **Case brief — *So Kai Hau v YSK2 Engineering Co Ltd* [2018] HKEC 2142**
+>
+> - **F:** After the **1996 Garley Building fire**, a building surveyor (Authorised Person) assessed a **gas cylinder** as empty and left it in place. It later **exploded, injuring demolition workers** after his appointment had ended.
+> - **I:** Did the surveyor owe a DOC to later contractors' workers, **beyond his appointment**?
+> - **R:** For **physical injury**, foreseeability plus sufficient proximity is enough, and policy rarely bars the claim.
+> - **H:** **DOC owed. The surveyor was liable** (upheld by the CA).
+
+> 📘 **Case brief — *Spring v Guardian Assurance plc* [1995] 2 AC 296 (HL)**
+>
+> - **F:** P's former employer gave a **negligently prepared reference** that effectively branded him dishonest, so he could not find work in insurance.
+> - **I:** Does an employer owe a DOC in preparing a reference, given that defamation law (qualified privilege) would protect it?
+> - **R:** Courts should be **cautious in using public policy to defeat a claim**. Policy should defeat a claim only where the harm to the public is **incontestable** and shown on **tangible grounds** (Lord Lowry).
+> - **H:** **DOC owed. The employer was liable.**
+
+> 📘 **Case brief — *Rondel v Worsley* [1969] 1 AC 191 (HL) → *Arthur JS Hall & Co v Simons* [2002] 1 AC 615 (HL)**
+>
+> - **F:** In *Rondel*, a convicted client sued his **barrister** for negligent defence. In *Hall*, clients sued **solicitors** over the handling of civil litigation.
+> - **I:** Are advocates immune from negligence claims?
+> - **R:** Policy can **change over time** with changes in the profession and in public perceptions.
+> - **H:** *Rondel* granted **immunity**. *Hall* (three decades later) **abolished it** in England. **HK has not decided** (*Hung Chan Wa*).
+
 ### 18.5 The main policy arguments for denying or limiting a DOC
 
 | | Argument | Explanation | Authority |
@@ -705,6 +932,13 @@ The approach is therefore **holistic** (*Luen Hing Fat*, §16.5).
 | **(b)** | **Indeterminate liability** | **Fairness to potential Ds.** Businesses that **can't predict the extent of liability can't calculate costs or plan**. That makes a less favourable business environment, and unpredictable expansion of DOC **may deter investment**. | ***Ultramares Corp v Touche* 255 NY 170, 179 (Cardozo J):** "liability in an **indeterminate amount** for an **indeterminate time** to an **indeterminate class**" |
 | **(c)** | **(Excessively) defensive practice** | Liability may **change how officials behave**. E.g. police may focus on **avoiding litigation** instead of investigating crime. | ***Hill*, 63 (Lord Keith):** "…the imposition of liability may lead to the exercise of a function being carried on in a **detrimentally defensive frame of mind**." |
 | **(d)** | **Financial burden on the public** | If the police lose a claim, **who pays?** The **Government**, which means **the public**. | ***Michael*, [122] (Lord Toulson):** compensation and claim costs "would have to come either from the **police budget, with corresponding reduction of spending on other services**, or from an **increased burden on the public**…" |
+
+> 📘 **Case brief — *Ultramares Corp v Touche* 255 NY 170 (1931) (NY Court of Appeals)**
+>
+> - **F:** Accountants negligently certified a company's balance sheet. P lent money to the company in reliance on it, and the company collapsed.
+> - **I:** Do auditors owe a DOC to third-party lenders?
+> - **R:** No, because that would risk "liability in an **indeterminate amount** for an **indeterminate time** to an **indeterminate class**" (Cardozo CJ).
+> - **H:** **No DOC in negligence.**
 
 ---
 
@@ -724,6 +958,13 @@ The approach is therefore **holistic** (*Luen Hing Fat*, §16.5).
 | **(a) The PA creates the danger** | ***Dorset Yacht*** (§16.2) |
 | **(b) The PA assumes responsibility.** This **requires more than having the statutory power or duty to act**. E.g. the police **specifically say they will cover something**. | ***N v Poole BC*** (no assumption of responsibility on the assumed facts) **[CHECK citation: the slides give "[2018] UKSC 18", but the case is usually cited [2019] UKSC 25, [2020] AC 780]** |
 | **(c) Interference principle:** the PA acts in a way that "**puts off or prevents someone else from taking steps to protect the claimant from harm**", e.g. suggesting that others need not worry | ***Tindall v Chief Constable of Thames Valley Police* [2024] UKSC 33** (not satisfied on the facts) |
+
+> 📘 **Case brief — *Tindall v Chief Constable of Thames Valley Police* [2024] UKSC 33**
+>
+> - **F:** Police attended an accident caused by **black ice**, put up a warning sign, then **removed it and left**. Later a driver skidded on the same ice and **killed Mr Tindall** in a collision.
+> - **I:** Did the police owe a DOC by attending and then leaving?
+> - **R:** **Interference principle:** a PA may be liable if it **puts off or prevents others from protecting P**. Otherwise there is **no duty to protect** unless D **made matters worse**.
+> - **H:** **No DOC.** The police did not make things worse or prevent anyone else from helping.
 
 ### 19.3 The police: no DOC for negligent investigation or suppression of crime
 **Why not?**
@@ -748,6 +989,27 @@ The approach is therefore **holistic** (*Luen Hing Fat*, §16.5).
 |---|---|
 | **Generally no DOC** (*Hill*, *Smith/Van Colle*, *Michael*, *Liu Mei Huei*) | **DOC owed** (*Robinson*) |
 | Exceptions: **assumption of responsibility**, **creating the danger**, **interference** (§19.2) | |
+
+> 📘 **Case brief — *Hill v Chief Constable of West Yorkshire* [1989] AC 53 (HL)**
+>
+> - **F:** Jacqueline Hill was the **last victim of the "Yorkshire Ripper"** (Peter Sutcliffe). Her mother sued the police for negligently failing to catch him earlier.
+> - **I:** Do the police owe members of the public a DOC in **investigating and suppressing crime**?
+> - **R:** **(1) No proximity:** she was an ordinary member of the public. **(2) Policy:** liability could produce "**detrimentally defensive**" policing and divert resources (Lord Keith).
+> - **H:** **No DOC.**
+
+> 📘 **Case brief — *Liu Mei Huei v Government of HKSAR* [2016] 2 HKLRD 249 (CA)**
+>
+> - **F:** P sued the Government after the **police classified her complaint as a civil dispute** and did not investigate it, and alleged failures by the **Legal Aid Department**.
+> - **I:** Do the police (or Legal Aid) owe a common law DOC for failing to perform **statutory duties**?
+> - **R:** HK follows ***Hill***. There is **no proximity** with ordinary members of the public, and **policy** points the same way: defensive policing and the diversion of time and resources (Chu JA).
+> - **H:** **No DOC.** The claim was struck out, and the appeal dismissed.
+
+> 📘 **Case brief — *Smith v Chief Constable of Sussex Police*; *Van Colle v Chief Constable of Hertfordshire Police* [2008] UKHL 50, [2009] 1 AC 225**
+>
+> - **F:** In *Smith*, P **reported repeated death threats** from his ex-partner, the police did not act, and he was attacked with a **claw hammer**. In *Van Colle*, a prosecution **witness was shot dead** by the accused before trial.
+> - **I:** Did the police owe a DOC (or have a duty under the Human Rights Act, Art 2) to protect a person who had asked for help?
+> - **R:** The ***Hill* principle** applies **even where the victim has contacted the police** and is identifiable.
+> - **H:** **No DOC** in *Smith*. **No breach of Art 2** in *Van Colle*.
 
 ---
 
@@ -794,6 +1056,20 @@ The approach is therefore **holistic** (*Luen Hing Fat*, §16.5).
 - See also ***James-Bowen v Commissioner of Police of the Metropolis* [2018] UKSC 40**.
 - **Lesson:** always ask **both**: **is there a DOC?** and **does the scope of the DOC cover these facts?**
 
+> 📘 **Case brief — *Mitchell v Glasgow City Council* [2009] UKHL 11, [2009] 1 AC 874**
+>
+> - **F:** The council's tenant **Drummond** had threatened to kill his neighbour **Mitchell**. The council held a meeting warning Drummond about **eviction**, and he went home and **killed Mitchell with an iron bar**. The council had **not warned** Mitchell about the meeting.
+> - **I:** Did the landlord's duty extend to **warning a tenant** of danger from a third party?
+> - **R:** **Foreseeability alone is not enough** for a duty to protect against **third-party crime**. A duty needs an **assumption of responsibility** or a similar exception. It is **not FJR** to deter landlords from taking action against anti-social tenants.
+> - **H:** **No DOC.** The established landlord–tenant duty **does not extend this far**.
+
+> 📘 **Case brief — *James-Bowen v Commissioner of Police of the Metropolis* [2018] UKSC 40**
+>
+> - **F:** Officers accused of assaulting an arrestee were acquitted. The Commissioner then **settled the arrestee's civil claim**, admitting liability, and the officers sued for damage to their **reputations and careers**.
+> - **I:** Does an employer's duty extend to protecting employees' reputation and economic interests **in how it conducts litigation**?
+> - **R:** The **scope** of an employer's duty does not extend that far. It would conflict with the employer's own right to defend or settle claims.
+> - **H:** **No DOC.**
+
 ### 21.4 *Pickersgill v Riley* [2004] UKPC 14: commercial setting
 > **[7] (Lord Scott):** "It is plain that when a **solicitor** is instructed by a client to act in a transaction, **a duty of care arises**. But it is also plain that **the scope of that duty of care is variable**. It will… depend, first and foremost, **upon the content of the instructions** given to the solicitor by the client. It will depend also on **the particular circumstances of the case**. It is a duty that it is **not helpful to try to describe in the abstract**."
 
@@ -802,11 +1078,39 @@ The approach is therefore **holistic** (*Luen Hing Fat*, §16.5).
 - **Held:** a solicitor has **no automatic duty to protect a client from their own commercial missteps**. The duty **may be higher for an unsophisticated or vulnerable client**, and **lower for a sophisticated one**.
 - 💡 **Exam tip:** in a **solicitor negligence** question, it is **not enough to say "established category" and move on**. Consider **whether the duty covers these facts**.
 
+> 📘 **Case brief — *Pickersgill v Riley* [2004] UKPC 14 (Privy Council, from Jersey)**
+>
+> - **F:** Mr Riley, an **experienced businessman**, suffered loss in a commercial transaction and claimed his solicitor should have warned him of the **commercial risk**. **[CHECK details]**
+> - **I:** Did the solicitor's DOC extend to advising on the **commercial wisdom** of the deal?
+> - **R:** A solicitor's DOC exists, but **its scope is variable**. It depends on the **instructions** and the **circumstances**, including the client's **sophistication** (Lord Scott, [7]).
+> - **H:** **Not liable.** There is no duty to protect a sophisticated client from commercial risks he understood.
+
 ### 21.5 Where does scope of duty belong?
 > ***Khan v Meadows* [2021] UKSC 21, [38] (Lord Hodge and Lord Sales):** "In our view it is **often helpful to ask the scope of duty question before turning to questions as to breach of duty and causation**. It asks: '**what, if any, risks of harm did the defendant owe a duty of care to protect the claimant against?**' The question is appropriately asked and answered at this stage, if it can be, in relation for example to the circumstances in which loss has been incurred, as in *Caparo*… or in relation to claims resulting from **omissions**…"
 
 - **Overlap with causation**, in particular the **"duty nexus" question**: is **all the loss claimed the consequence of the risk against which D had to take care?** See ***South Australia Asset Management Corp v York Montague Ltd* (SAAMCO) [1997] AC 191**; ***Manchester Building Society v Grant Thornton UK LLP* [2021] UKSC 20**. *(Relevant again in Weeks 7–9.)*
 - 💡 **Where you raise scope of duty (under duty or causation) matters less than *that* you raise it.** Cite *Khan v Meadows*.
+
+> 📘 **Case brief — *Khan v Meadows* (also *Meadows v Khan*) [2021] UKSC 21**
+>
+> - **F:** P asked her GP (D) whether she carried the **haemophilia gene**. She was **wrongly advised** that she did not. Her son was born with **haemophilia and (unrelated) autism**.
+> - **I:** Is D liable for the extra costs of **autism** as well as haemophilia?
+> - **R:** **Scope of duty:** what risks did D owe a duty to protect P against? The **seven-question model** is at [79] (Lord Burrows). **Ask scope before breach where possible** ([38]).
+> - **H:** **Liable only for the haemophilia-related costs.** Autism was **outside the scope of the duty**.
+
+> 📘 **Case brief — *South Australia Asset Management Corp v York Montague Ltd* (SAAMCO) [1997] AC 191 (HL)**
+>
+> - **F:** Valuers **negligently overvalued** properties, lenders lent on them, and the **property market then fell**.
+> - **I:** Are the valuers liable for the **whole loss**, including the market fall?
+> - **R:** D is liable only for loss that is the **consequence of the information being wrong** (the "duty nexus").
+> - **H:** Liability was **limited to the amount of the overvaluation**.
+
+> 📘 **Case brief — *Manchester Building Society v Grant Thornton UK LLP* [2021] UKSC 20**
+>
+> - **F:** Auditors negligently advised that the society could use **hedge accounting** for its interest-rate swaps. When the rules were correctly applied, the society **closed the swaps at a large loss**.
+> - **I:** Was the loss **within the scope** of the auditors' duty?
+> - **R:** Consider the **purpose of the duty** and whether the loss flows from the **risk the duty guarded against**.
+> - **H:** **Liable.** The loss was within scope, but **damages were reduced 50% for contributory negligence**.
 
 ---
 
@@ -862,6 +1166,13 @@ The approach is therefore **holistic** (*Luen Hing Fat*, §16.5).
 - **Held: not liable**, even though the water came from the fire plug. The frost was **so exceptional**, a **freak act of nature**, that a reasonable person would not have guarded against it.
 - *Extra:* the classic definition of negligence (Alderson B) is "**the omission to do something which a reasonable man, guided upon those considerations which ordinarily regulate the conduct of human affairs, would do, or doing something which a prudent and reasonable man would not do**". **[CHECK whether you need it verbatim]**
 
+> 📘 **Case brief — *Blyth v Birmingham Waterworks Co* (1856) 11 Ex 781**
+>
+> - **F:** A **fire plug** in D's water main leaked during an **unprecedentedly severe frost** and **flooded P's house**.
+> - **I:** Was D negligent?
+> - **R:** Negligence is failing to do what a **reasonable man** would do, or doing what a **prudent and reasonable man** would not (Alderson B).
+> - **H:** **Not liable.** A reasonable person would not guard against such an **exceptional frost**.
+
 ### 24.3 Who is the reasonable person?
 - **Not a real person.** It is a **fictional, judicial construct of the common law**.
 - **Not the same as the average or ordinary person.**
@@ -872,6 +1183,20 @@ The approach is therefore **holistic** (*Luen Hing Fat*, §16.5).
 - Traditionally **"the man on the Clapham omnibus"**. **[CHECK source: usually *Hall v Brooklands Auto-Racing Club* [1933]]**
 - **"Free both from over-apprehension and from over-confidence"**: ordinary people have strengths and weaknesses, but the reasonable person is **"just right"**. **[CHECK source: usually *Glasgow Corporation v Muir* [1943] AC 448, Lord Macmillan]**
 
+> 📘 **Case brief — *Hall v Brooklands Auto-Racing Club* [1933] 1 KB 205 (CA) **[CHECK: whether cited in lectures]****
+>
+> - **F:** Two cars collided at a racing track and one went into the crowd, killing spectators.
+> - **I:** Did the track owner breach its duty to spectators?
+> - **R:** The standard is that of the **reasonable person**, "**the man on the Clapham omnibus**".
+> - **H:** **Not liable.** Such an accident was not reasonably foreseeable.
+
+> 📘 **Case brief — *Glasgow Corporation v Muir* [1943] AC 448 (HL) **[CHECK: whether cited in lectures]****
+>
+> - **F:** Two people carried a **tea urn** through a narrow shop passage where children were buying sweets. It slipped and **scalded children**.
+> - **I:** Was the manageress negligent in allowing this?
+> - **R:** The reasonable person is "**free both from over-apprehension and from over-confidence**" (Lord Macmillan).
+> - **H:** **Not liable.** The risk was not reasonably foreseeable.
+
 ### 24.4 *Bolton v Stone* [1951] AC 850: no duty to eliminate every risk
 - **Facts:** a cricket ball was **hit out of the ground** and injured P on the road outside. P sued the **cricket club** in **negligence** and **nuisance**.
 - **Held (HL): no breach.**
@@ -879,6 +1204,13 @@ The approach is therefore **holistic** (*Luen Hing Fat*, §16.5).
   - **Ordinary care does not mean eliminating all risks.** That would impose a **huge burden** and **unrealistic measures**.
   - "**An ordinary man does not take precautions against every foreseeable risk.**" He takes **certain precautions, but not all.**
 - Link: **optimal accident prevention** (§7.4).
+
+> 📘 **Case brief — *Bolton v Stone* [1951] AC 850 (HL)**
+>
+> - **F:** A **cricket ball was hit out of the ground** and struck P on the road outside. Balls had cleared the fence only about **six times in 30 years**.
+> - **I:** Did the club breach its DOC by not taking more precautions?
+> - **R:** A reasonable person **need not guard against every foreseeable risk**. A risk that is **very small** can be disregarded.
+> - **H:** **No breach.**
 
 ---
 
@@ -905,6 +1237,13 @@ The approach is therefore **holistic** (*Luen Hing Fat*, §16.5).
   - There is **no "brand new driver" standard**.
 - *Link:* **compulsory motor insurance** (§10.2) is part of why courts accept this.
 
+> 📘 **Case brief — *Nettleship v Weston* [1971] 2 QB 691 (CA)**
+>
+> - **F:** D, a **learner driver**, was being taught by a friend (P). She failed to straighten the car after a turn and **hit a lamp post**, breaking P's knee.
+> - **I:** Is a learner driver held to a **lower standard**?
+> - **R:** **No.** All drivers are held to the standard of a **competent and experienced driver**. The standard is **objective and certain**.
+> - **H:** **D was liable.** P's damages were reduced for his contributory negligence.
+
 ### 25.3 Children: the standard is lowered (objectively)
 - **The exception** to the general rule against lowering the standard.
 - The standard is lowered **objectively**: **not what this child knew**, but what **a reasonable child of D's age and experience** would foresee.
@@ -920,328 +1259,83 @@ The approach is therefore **holistic** (*Luen Hing Fat*, §16.5).
 - **Facts:** two **15-year-old schoolgirls** were **play-fencing with plastic rulers**. One ruler **snapped**, and a fragment **partially blinded** one girl.
 - **Held:** they were **close to adulthood but still children**, so the standard is that of a **reasonable 15-year-old**. Ruler fencing was **common**, and this was a **freak accident**. A reasonable 15-year-old **would not have foreseen serious injury**. **No breach.**
 
+> 📘 **Case brief — *McHale v Watson* (1966) 115 CLR 199; [1966] ALR 513 (High Court of Australia)**
+>
+> - **F:** **Barry Watson (12)** threw a sharpened metal rod at a wooden post. It **glanced off** and hit **Susan McHale** in the eye.
+> - **I:** What standard applies to a **child** defendant?
+> - **R:** The standard of a **reasonable child of the same age, intelligence and experience**, assessed **objectively** rather than by this child's actual characteristics.
+> - **H:** **No breach.** A reasonable 12-year-old would not have foreseen the risk. **Judgment for Watson.**
+
+> 📘 **Case brief — *Mullin v Richards* [1998] 1 WLR 1304 (CA)**
+>
+> - **F:** Two **15-year-old schoolgirls** were **play-fencing with plastic rulers**. A ruler **snapped**, and a fragment **blinded one girl in one eye**.
+> - **I:** Was the other girl negligent?
+> - **R:** The standard of a **reasonable 15-year-old**.
+> - **H:** **No breach.** Ruler fencing was **common** and the injury **not reasonably foreseeable**.
+>
+> ---
+
 ---
 
 # APPENDICES
 
-## Appendix A — Case briefs (IRAC)
+## Appendix A — Case index
 
-> **F** = Facts · **I** = Issue · **R** = Rule / principle · **H** = Held (application and conclusion). The § numbers point back to where each case is discussed. **[CHECK]** = facts not covered in lectures or slides, or not fully verified.
+Each case brief (📘 Facts / Issue / Rule / Held) appears in the notes **where the case is discussed**. Use this index to find it.
 
-### Part A — Introduction
+| Case | Brief at / discussed in |
+|---|---|
+| *Henderson v Merrett Syndicates Ltd* [1995] 2 AC 145 (HL) | §1.2 |
+| *Letang v Cooper* [1965] 1 QB 232 (CA) | §3.3 |
+| *Livingstone v Rawyards Coal Co* (1880) 5 App Cas 25 (HL) | §6.3 |
+| *Vellino v Chief Constable of Greater Manchester* [2002] 1 WLR 218 (CA) | §6.4 |
+| *Liebeck v McDonald's Restaurants* (New Mexico, 1994) **[CHECK: confirm this was the lecture example]** | §5 |
+| Who can be sued: illustrative HK cases | §11.2 |
+| *Smith v Ministry of Defence* [2013] UKSC 41, [2014] 1 AC 52 | §11.3 |
+| *HKSAR v Hung Chan Wa* (2006) 9 HKCFAR 614 (CFA) | §11.3, §18.4 |
+| *Luen Hing Fat Coating & Finishing Factory Ltd v Waan Chuen Ming* (2011) 14 HKCFAR 14 (CFA) | §13.1, §16.5 |
+| *Heaven v Pender* (1883) 11 QBD 503 (CA) | §15.1 |
+| *Donoghue v Stevenson* [1932] AC 562 (HL) | §15 |
+| *Hedley Byrne & Co v Heller & Partners* [1964] AC 465 (HL) | §16.1 |
+| *Home Office v Dorset Yacht Co Ltd* [1970] AC 1004 (HL) | §16.2 |
+| *Anns v Merton LBC* [1978] AC 728 (HL) | §16.3 |
+| *Caparo Industries plc v Dickman* [1990] 2 AC 605 (HL) | §16.4, §18.1, §21.1 |
+| *Yeung Kai Yuen v Cinerent Ltd* [2014] HKEC 633 | §16.5 |
+| *Robinson v Chief Constable of West Yorkshire Police* [2018] UKSC 4, [2018] AC 736 | §17.1, §19.3 |
+| *N v Poole Borough Council* [2019] UKSC 25, [2020] AC 780 | §17.1, §19.2 |
+| *Liu Shih Teng v HKCC Dotcod Ltd* [2022] HKCFI 474 | §17.3 |
+| *Darnley v Croydon Health Services NHS Trust* [2018] UKSC 50, [2019] AC 831 | §17.4, §21.2 |
+| *Airport Authority v Western Air Ltd* [2020] UKPC 29 (Privy Council, from the Bahamas) | §18.2, §18.3 |
+| *Michael v Chief Constable of South Wales Police* [2015] UKSC 2, [2015] AC 1732 | §18.3–18.5, §19.3 |
+| *Lam Pak Keung v Ip Tsz Ping* [2016] 3 HKLRD 139 (CA) | §18.3 |
+| *Alcock v Chief Constable of South Yorkshire* [1992] 1 AC 310 (HL) | §14, §18.3 |
+| *Barrett v Enfield LBC* [2001] 2 AC 550 (HL) | §18.4 |
+| *Grimes v Hawkins* [2011] EWHC 2004 (QB) | §14, §18.4 |
+| *Customs and Excise Commissioners v Barclays Bank plc* [2006] UKHL 28, [2007] 1 AC 181 | §18.4 |
+| *So Kai Hau v YSK2 Engineering Co Ltd* [2018] HKEC 2142 | §18.4 |
+| *Spring v Guardian Assurance plc* [1995] 2 AC 296 (HL) | §18.4 |
+| *Rondel v Worsley* [1969] 1 AC 191 (HL) → *Arthur JS Hall & Co v Simons* [2002] 1 AC 615 (HL) | §18.4 |
+| *Ultramares Corp v Touche* 255 NY 170 (1931) (NY Court of Appeals) | §18.5 |
+| *Hill v Chief Constable of West Yorkshire* [1989] AC 53 (HL) | §11.3, §18.5, §19.3 |
+| *Liu Mei Huei v Government of HKSAR* [2016] 2 HKLRD 249 (CA) | §19.3 |
+| *Smith v Chief Constable of Sussex Police*; *Van Colle v Chief Constable of Hertfordshire Police* [2008] UKHL 50, [2009] 1 AC 225 | §19.3 |
+| *Tindall v Chief Constable of Thames Valley Police* [2024] UKSC 33 | §19.2 |
+| *Mitchell v Glasgow City Council* [2009] UKHL 11, [2009] 1 AC 874 | §21.3 |
+| *James-Bowen v Commissioner of Police of the Metropolis* [2018] UKSC 40 | §21.3 |
+| *Pickersgill v Riley* [2004] UKPC 14 (Privy Council, from Jersey) | §21.4 |
+| *Khan v Meadows* (also *Meadows v Khan*) [2021] UKSC 21 | §13.2, §21.5 |
+| *South Australia Asset Management Corp v York Montague Ltd* (SAAMCO) [1997] AC 191 (HL) | §21.5 |
+| *Manchester Building Society v Grant Thornton UK LLP* [2021] UKSC 20 | §21.5 |
+| Drug dealers stabbing **[CASE TBC]** | §14 |
+| *Blyth v Birmingham Waterworks Co* (1856) 11 Ex 781 | §24.2 |
+| *Hall v Brooklands Auto-Racing Club* [1933] 1 KB 205 (CA) **[CHECK: whether cited in lectures]** | §24.3 |
+| *Glasgow Corporation v Muir* [1943] AC 448 (HL) **[CHECK: whether cited in lectures]** | §24.3 |
+| *Bolton v Stone* [1951] AC 850 (HL) | §24.4 |
+| *Nettleship v Weston* [1971] 2 QB 691 (CA) | §25.2 |
+| *McHale v Watson* (1966) 115 CLR 199; [1966] ALR 513 (High Court of Australia) | §25.3 |
+| *Mullin v Richards* [1998] 1 WLR 1304 (CA) | §25.3 |
 
-#### *Henderson v Merrett Syndicates Ltd* [1995] 2 AC 145 (HL) (§1.2)
-- **F:** Lloyd's "Names" (investors) lost money through the negligent underwriting of the managing agents, with whom some Names also had contracts.
-- **I:** Can D be liable in tort when there is also a contract covering the same conduct?
-- **R:** **Concurrent liability.** A duty in tort (assumption of responsibility) can co-exist with a contractual duty, and P may choose the more advantageous claim.
-- **H:** The agents owed a duty of care in tort, **so the Names could sue in negligence**.
-
-#### *Letang v Cooper* [1965] 1 QB 232 (CA) (§3.3)
-- **F:** P was sunbathing on a hotel car park when D **drove over her legs**. She sued more than 3 years later, framing the claim as **trespass** to escape the 3-year limit for negligence.
-- **I:** Can an **unintentional** direct injury be sued as trespass?
-- **R:** **Intentional** direct harm = trespass (assault/battery). **Unintentional** harm = **negligence only**, and requires proof of want of reasonable care (Lord Denning).
-- **H:** The claim was in substance negligence, so it was **time-barred**.
-
-#### *Livingstone v Rawyards Coal Co* (1880) 5 App Cas 25 (HL) (§6.3)
-- **F:** D mined coal under P's land, honestly believing D had the right to it.
-- **I:** How should damages be measured?
-- **R:** Damages should **put P in the same position as if the wrong had not occurred** (Lord Blackburn): the **compensatory principle**.
-- **H:** Damages were assessed on that compensatory basis.
-
-#### *Vellino v Chief Constable of Greater Manchester* [2002] 1 WLR 218 (CA) (§6.4)
-- **F:** P, who was known to escape arrest by jumping from his flat, was arrested and **jumped from a second-floor window** while the officers did nothing. He was severely injured and sued the police.
-- **I:** Did the police owe a duty to stop an arrested person injuring himself while escaping? Is the claim barred by his crime?
-- **R:** **Illegality (*ex turpi causa*):** a claimant cannot recover for injury suffered while committing a serious crime (escaping lawful custody).
-- **H:** **Claim failed (majority).** **Sedley LJ dissented**: denying redress "makes him an outlaw" and "rewards the misconduct of his captors"; apportioning responsibility would "do justice".
-
-#### *Liebeck v McDonald's Restaurants* (New Mexico, 1994) (§5) **[CHECK: confirm this was the lecture example]**
-- **F:** A 79-year-old woman spilled McDonald's coffee, which was served at a very high temperature, and suffered **third-degree burns**. McDonald's had known of hundreds of prior burn complaints.
-- **I:** Were punitive damages justified?
-- **R:** Punitive damages can be awarded where D shows **reckless disregard** for customers' safety, e.g. for profit.
-- **H:** The jury awarded compensatory damages plus about **US$2.7m in punitive damages**, later reduced by the judge.
-
-#### Who can be sued: illustrative HK cases (§11.2)
-The slides cite these **only to show who can be sued**. Their facts were not covered. **[CHECK in Glofcheski if needed]**
-
-| Case | D | Point |
-|---|---|---|
-| *McHale v Watson* [1966] ALR 513 (see Part C) | Child | Children can be sued; the standard is adjusted for age |
-| *Leung Kwok Lung v Ling Wai* [2010] HKEC 544 | Child | Children can be sued in HK |
-| *Chau Chui Ping v Cathay Pacific Airways Ltd* (2006) HCPI 261/2003 | Corporation | Companies can be sued in tort |
-| *Aberdeen Winner Investments v IO of Albert House* [2004] 3 HKLRD 910 | Incorporated owners (building owners' corporation) | Owners' corporations can be liable for the condition of the building (the case arose from the **Albert House canopy collapse**, Sheung Wan, 1994) **[CHECK]** |
-| *Wong Tai Wai v HKSAR Government* (2004) CACV 19 & 247/2003 | The Government | The Government can be sued in tort |
-| *Li Ngan Shui Brumen v Official Receiver* [1995] 1 HKC 133 | Government official | Officials can be sued |
-| *Cheng Wai Leung v Pneumoconiosis Compensation Fund Board* [1990] 2 HKC 333 | Statutory body | Statutory bodies can be sued |
-
-#### *Smith v Ministry of Defence* [2013] UKSC 41, [2014] 1 AC 52 (§11.3)
-- **F:** Families of British soldiers killed in Iraq (in lightly armoured "Snatch" Land Rovers, and in a "friendly fire" tank incident) sued the MoD for failing to provide proper equipment and training.
-- **I:** Does **combat immunity** bar the claims?
-- **R:** No DOC is owed to **soldiers actively engaging the enemy** (combat immunity), but the immunity is **construed narrowly**.
-- **H:** Decisions about **equipment and training taken away from the battlefield** were not covered, so the **claims were allowed to proceed** (not struck out).
-
-#### *HKSAR v Hung Chan Wa* (2006) 9 HKCFAR 614 (CFA) (§11.3, §18.4)
-- **F:** A criminal appeal on the **statutory presumptions in the Dangerous Drugs Ordinance**. It involved the CFA's approach to **departing from earlier authority**. **[CHECK]**
-- **I (tort relevance):** Does changing a rule mean the earlier decision was wrong?
-- **R:** Precedent may be **reconsidered in the light of changed circumstances**. E.g. *Arthur JS Hall v Simons* departed from *Rondel v Worsley* on advocates' immunity **without saying *Rondel* was wrongly decided** (Li CJ, [31]).
-- **H (tort point):** **Advocates' immunity remains undecided in HK.**
-
----
-
-### Part B — Duty of care
-
-#### *Luen Hing Fat Coating & Finishing Factory Ltd v Waan Chuen Ming* (2011) 14 HKCFAR 14 (CFA) (§13.1, §16.5)
-- **F:** A factory occupier hired an **independent contractor** to repair a machine and **lent its own equipment** (pallet jacks, a trolley) to move a **1.5-tonne part**. The part fell and injured **the contractor's worker** (P).
-- **I:** Did the **occupier** owe a DOC to **the contractor's employee**? What is HK's test for a DOC?
-- **R:** The elements of negligence are duty, breach, damage and remoteness. **HK adopts *Caparo*, applied holistically.** "Stand back and take a holistic view"; the three stages "overlap… facets of the same thing". **FJR can ground a duty.** Where **personal safety** is at stake, that is always significant.
-- **H:** **DOC owed; the occupier was liable** even though the equipment was not intrinsically dangerous.
-
-#### *Heaven v Pender* (1883) 11 QBD 503 (CA) (§15.1)
-- **F:** A painter working on a ship in D's dry dock was injured when **staging ropes supplied by D** broke.
-- **I:** Did D owe a DOC to a worker with whom D had no contract?
-- **R (majority):** A duty was owed because P was D's **"invitee"** (a recognised category). **Brett MR** proposed a wider **"larger principle"** based on foresight of danger, a forerunner of the neighbour principle.
-- **H:** **D was liable.**
-
-#### *Donoghue v Stevenson* [1932] AC 562 (HL) (§15)
-- **F:** A friend bought P a **ginger beer** in a café in Paisley. It came in an **opaque bottle** containing a **decomposed snail**, and she suffered **shock and gastroenteritis**. She had **no contract**, so she sued the **manufacturer**.
-- **I:** Does a manufacturer owe a DOC to the **ultimate consumer**, with whom it has no contract?
-- **R:** **The neighbour principle:** take reasonable care to avoid acts or omissions you can reasonably foresee would injure your neighbour. **Narrow ratio:** a manufacturer owes a DOC to the ultimate consumer where there is **no reasonable possibility of intermediate examination**.
-- **H:** **DOC owed (3–2).**
-
-#### *Hedley Byrne & Co v Heller & Partners* [1964] AC 465 (HL) (§16.1)
-- **F:** P (advertising agents) asked D, a bank, about a client's creditworthiness. D gave a favourable reference **"without responsibility"**. The client collapsed and P lost money.
-- **I:** Can a **negligent misstatement** causing **pure economic loss** give rise to liability?
-- **R:** Yes, where there is a **special relationship**, i.e. D **assumes responsibility** and P **reasonably relies**.
-- **H:** A duty could arise in principle, **but the disclaimer excluded liability**, so **D was not liable**.
-
-#### *Home Office v Dorset Yacht Co Ltd* [1970] AC 1004 (HL) (§16.2)
-- **F:** Borstal trainees on Brownsea Island escaped while **all three supervising officers slept**, contrary to orders. They **damaged P's yacht**.
-- **I:** Does D owe a DOC for **omissions** or **third parties' acts**?
-- **R:** A **special relationship of control** over the third party creates an exception to the omissions rule. **Policy decisions are non-justiciable; operational negligence is actionable.** A third party's crime does not break causation if it was **highly probable**.
-- **H:** **DOC owed** (Lord Diplock).
-
-#### *Anns v Merton LBC* [1978] AC 728 (HL) (§16.3)
-- **F:** A council negligently inspected a building's **foundations**, and the flats later cracked.
-- **I:** When is a DOC owed?
-- **R:** A **two-stage test:** (1) sufficient proximity, giving a prima facie duty; (2) policy reasons to negate or restrict it.
-- **H:** **The council could owe a DOC.** The test later **proved too wide** and was replaced by *Caparo* (*Anns* was overruled by *Murphy v Brentwood DC* [1991]).
-
-#### *Caparo Industries plc v Dickman* [1990] 2 AC 605 (HL) (§16.4, §18.1, §21.1)
-- **F:** P bought shares in Fidelity plc and then **took it over**, relying on accounts audited by D that **overstated profits**.
-- **I:** Did the auditors owe a DOC to **investors** or **existing shareholders buying more shares**?
-- **R:** The **three-stage approach**: foreseeability, proximity, FJR. These are "**convenient labels**". **Scope** must be determined "by reference to the kind of damage". The audit is for **shareholders as a body** to oversee management, not for investment decisions.
-- **H:** **No DOC.** P was acting as an ordinary **market participant**.
-
-#### *Yeung Kai Yuen v Cinerent Ltd* [2014] HKEC 633 (§16.5)
-- **F:** A personal injury case about an **electricity leakage** in an employment setting. **[CHECK details]**
-- **I:** Was a DOC owed, and how does HK apply *Caparo*?
-- **R:** Andrew Li J reviewed the UK and HK law. *Caparo* is the "**fairness and three stage test**"; FJR is "ordinary reason and common sense"; FJR can **ground** a duty (*Luen Hing Fat*).
-- **H:** **D was held 100% liable.** **[CHECK]**
-
-#### *Robinson v Chief Constable of West Yorkshire Police* [2018] UKSC 4, [2018] AC 736 (§17.1, §19.3)
-- **F:** Officers arresting a suspected drug dealer on a Huddersfield street **knocked over P, an elderly passer-by**, in the struggle.
-- **I:** Did the police owe P a DOC? Must *Caparo* be applied in every case?
-- **R:** ***Caparo* is not a universal test.** Follow **established categories** and move **incrementally** in novel cases. **Police are not immune**: they owe a DOC for **positive acts** that cause foreseeable **physical injury**, though generally not for failing to protect from third parties.
-- **H:** **DOC owed and breached. The police were liable.**
-
-#### *N v Poole Borough Council* [2019] UKSC 25, [2020] AC 780 (§17.1, §19.2)
-- **F:** The council housed a mother and two children next to a family who **harassed and abused them for years**. The children sued the council for failing to **protect or remove** them.
-- **I:** Did the council owe a DOC to protect them from **third parties**?
-- **R:** PAs are subject to the **same principles as private persons**. Merely having **statutory powers or duties** does not amount to an **assumption of responsibility**. There is **no general duty to protect** from third parties.
-- **H:** **No DOC.** The claim was struck out.
-
-#### *Liu Shih Teng v HKCC Dotcod Ltd* [2022] HKCFI 474 (§17.3)
-- **F:** The deceased ate and drank at D's restaurant, then **fell backwards down a staircase** while leaving and died. The administrator sued in negligence and sought to **amend the claim** to allege D kept serving alcohol despite knowing he might be drunk (contrary to the **liquor licence conditions**).
-- **I:** Does a commercial host owe a DOC to patrons it serves alcohol to ("**alcohol liability**")?
-- **R:** International common law authority is **divergent**, so this is not a settled category. The **local courts "will have to find its own way and set its own incremental pace"** (Ng J).
-- **H:** The court treated this as a **novel area for incremental development**. **[CHECK: outcome of the amendment application]**
-
-#### *Darnley v Croydon Health Services NHS Trust* [2018] UKSC 50, [2019] AC 831 (§17.4, §21.2)
-- **F:** P arrived at A&E with a **head injury**. The **receptionist** told him he would wait **4–5 hours**, when in fact a triage nurse would have seen him within about 30 minutes. He **left**, collapsed at home, and suffered **permanent brain damage**.
-- **I:** Does the hospital's duty extend to **non-medical staff** giving **information**?
-- **R:** Once "**booked in**", P is in an **established patient–healthcare provider relationship**. There is **no distinction between medical and non-medical staff**. The **scope** of the duty covers **not giving misleading information** that may foreseeably cause physical injury.
-- **H:** **DOC owed and breached. The hospital was liable.**
-
-#### *Airport Authority v Western Air Ltd* [2020] UKPC 29 (Privy Council, from the Bahamas) (§18.2, §18.3)
-- **F:** Western Air's **aircraft, parked airside, was stolen**. The Airport Authority was responsible for airport security. Western Air could not provide its own security.
-- **I:** Was theft foreseeable, and was there proximity?
-- **R:** **The exact harm need not be foreseen**; the possibility of harm to unguarded aircraft was enough. **Proximity** arose because the Authority was the **sole agency** responsible for the plane's safety and P was **uniquely dependent** on it (vulnerability).
-- **H:** **DOC owed. The Authority was liable.**
-
-#### *Michael v Chief Constable of South Wales Police* [2015] UKSC 2, [2015] AC 1732 (§18.3–18.5, §19.3)
-- **F:** Joanna Michael made a **999 call** saying her ex-partner had threatened to kill her. The call was mishandled and graded as non-urgent. The police arrived after she had been **stabbed to death**.
-- **I:** Did the police owe her a DOC to protect her from a **third party**?
-- **R:** **No general duty to protect from third parties.** Exceptions such as **assumption of responsibility** are **strictly applied**. **Policy:** the financial burden on the police budget (Lord Toulson, [122]).
-- **H:** **No DOC (5–2).** ⚠️ **Lord Kerr** (quoted on the slides at [160], [161] and [164]) and Lady Hale **dissented**. His views on policy and FJR are **dissenting remarks**, useful for arguments but not the ratio.
-
-#### *Lam Pak Keung v Ip Tsz Ping* [2016] 3 HKLRD 139 (CA) (§18.3)
-- **F:** P, a labourer employed by a **subcontractor**, was unloading a container at a freight terminal leased by D3. A forklift left **unattended with its engine running** moved forward and **impaled P's calf**.
-- **I:** Did D3 (the terminal lessee, not P's employer) owe P a DOC to **control forklift traffic**?
-- **R:** Proximity can arise from P's **vulnerability**, and **personal safety** considerations are "very powerful" where P has **no reasonable means of self-protection** (citing *Luen Hing Fat*).
-- **H:** **DOC owed and breached** (no traffic controller). **D3 was liable.**
-
-#### *Alcock v Chief Constable of South Yorkshire* [1992] 1 AC 310 (HL) (§14, §18.3)
-- **F:** Relatives of fans crushed at the **Hillsborough** stadium disaster suffered **psychiatric injury** after watching it at the ground or on TV, or identifying bodies.
-- **I:** When do **secondary victims** of psychiatric harm have a claim?
-- **R:** They need **close ties of love and affection**, **proximity in time and space** to the event or its immediate aftermath, and **perception with their own unaided senses**.
-- **H:** **All the claims failed.**
-
-#### *Barrett v Enfield LBC* [2001] 2 AC 550 (HL) (§18.4)
-- **F:** P spent his childhood **in council care** and claimed the council's decisions (placements, failure to arrange adoption) caused him psychiatric harm.
-- **I:** Should the claim be struck out as non-justiciable or not FJR?
-- **R:** FJR requires **weighing the total detriment to the public interest against the total loss to all would-be claimants** (Lord Browne-Wilkinson).
-- **H:** **The claim was not struck out** and went to trial.
-
-#### *Grimes v Hawkins* [2011] EWHC 2004 (QB) (§14, §18.4)
-- **F:** Kylie Grimes, aged 18, **dived into D's private pool**, hit her head, and became tetraplegic. She alleged D should have **locked the pool** or put up **"no diving" signs**.
-- **I:** Was it FJR to impose a DOC on the pool owner?
-- **R:** An **adult who voluntarily takes an obvious risk** is not owed a duty to be protected from it. Consider the **broader social implications** for other pool owners.
-- **H:** **No DOC** (Thirlwall J). It was not FJR to require D to put the pool out of bounds or ban adults from diving.
-
-#### *Customs and Excise Commissioners v Barclays Bank plc* [2006] UKHL 28, [2007] 1 AC 181 (§18.4)
-- **F:** Customs obtained **freezing orders** over customers' accounts. The bank **negligently allowed payments out** within hours, and Customs lost the money.
-- **I:** Did the bank owe Customs a DOC (pure economic loss)?
-- **R:** For **physical injury, foreseeability is usually enough**. For **economic loss, "something more is needed"**, such as an assumption of responsibility.
-- **H:** **No DOC.** Complying with a court order is not a voluntary assumption of responsibility.
-
-#### *So Kai Hau v YSK2 Engineering Co Ltd* [2018] HKEC 2142 (§18.4)
-- **F:** After the **1996 Garley Building fire**, a building surveyor (Authorised Person) assessed a **gas cylinder** as empty and left it in place. It later **exploded, injuring demolition workers** after his appointment had ended.
-- **I:** Did the surveyor owe a DOC to later contractors' workers, **beyond his appointment**?
-- **R:** For **physical injury**, foreseeability plus sufficient proximity is enough, and policy rarely bars the claim.
-- **H:** **DOC owed. The surveyor was liable** (upheld by the CA).
-
-#### *Spring v Guardian Assurance plc* [1995] 2 AC 296 (HL) (§18.4)
-- **F:** P's former employer gave a **negligently prepared reference** that effectively branded him dishonest, so he could not find work in insurance.
-- **I:** Does an employer owe a DOC in preparing a reference, given that defamation law (qualified privilege) would protect it?
-- **R:** Courts should be **cautious in using public policy to defeat a claim**. Policy should defeat a claim only where the harm to the public is **incontestable** and shown on **tangible grounds** (Lord Lowry).
-- **H:** **DOC owed. The employer was liable.**
-
-#### *Rondel v Worsley* [1969] 1 AC 191 (HL) → *Arthur JS Hall & Co v Simons* [2002] 1 AC 615 (HL) (§18.4)
-- **F:** In *Rondel*, a convicted client sued his **barrister** for negligent defence. In *Hall*, clients sued **solicitors** over the handling of civil litigation.
-- **I:** Are advocates immune from negligence claims?
-- **R:** Policy can **change over time** with changes in the profession and in public perceptions.
-- **H:** *Rondel* granted **immunity**. *Hall* (three decades later) **abolished it** in England. **HK has not decided** (*Hung Chan Wa*).
-
-#### *Ultramares Corp v Touche* 255 NY 170 (1931) (NY Court of Appeals) (§18.5)
-- **F:** Accountants negligently certified a company's balance sheet. P lent money to the company in reliance on it, and the company collapsed.
-- **I:** Do auditors owe a DOC to third-party lenders?
-- **R:** No, because that would risk "liability in an **indeterminate amount** for an **indeterminate time** to an **indeterminate class**" (Cardozo CJ).
-- **H:** **No DOC in negligence.**
-
-#### *Hill v Chief Constable of West Yorkshire* [1989] AC 53 (HL) (§11.3, §18.5, §19.3)
-- **F:** Jacqueline Hill was the **last victim of the "Yorkshire Ripper"** (Peter Sutcliffe). Her mother sued the police for negligently failing to catch him earlier.
-- **I:** Do the police owe members of the public a DOC in **investigating and suppressing crime**?
-- **R:** **(1) No proximity:** she was an ordinary member of the public. **(2) Policy:** liability could produce "**detrimentally defensive**" policing and divert resources (Lord Keith).
-- **H:** **No DOC.**
-
-#### *Liu Mei Huei v Government of HKSAR* [2016] 2 HKLRD 249 (CA) (§19.3)
-- **F:** P sued the Government after the **police classified her complaint as a civil dispute** and did not investigate it, and alleged failures by the **Legal Aid Department**.
-- **I:** Do the police (or Legal Aid) owe a common law DOC for failing to perform **statutory duties**?
-- **R:** HK follows ***Hill***. There is **no proximity** with ordinary members of the public, and **policy** points the same way: defensive policing and the diversion of time and resources (Chu JA).
-- **H:** **No DOC.** The claim was struck out, and the appeal dismissed.
-
-#### *Smith v Chief Constable of Sussex Police*; *Van Colle v Chief Constable of Hertfordshire Police* [2008] UKHL 50, [2009] 1 AC 225 (§19.3)
-- **F:** In *Smith*, P **reported repeated death threats** from his ex-partner, the police did not act, and he was attacked with a **claw hammer**. In *Van Colle*, a prosecution **witness was shot dead** by the accused before trial.
-- **I:** Did the police owe a DOC (or have a duty under the Human Rights Act, Art 2) to protect a person who had asked for help?
-- **R:** The ***Hill* principle** applies **even where the victim has contacted the police** and is identifiable.
-- **H:** **No DOC** in *Smith*. **No breach of Art 2** in *Van Colle*.
-
-#### *Tindall v Chief Constable of Thames Valley Police* [2024] UKSC 33 (§19.2)
-- **F:** Police attended an accident caused by **black ice**, put up a warning sign, then **removed it and left**. Later a driver skidded on the same ice and **killed Mr Tindall** in a collision.
-- **I:** Did the police owe a DOC by attending and then leaving?
-- **R:** **Interference principle:** a PA may be liable if it **puts off or prevents others from protecting P**. Otherwise there is **no duty to protect** unless D **made matters worse**.
-- **H:** **No DOC.** The police did not make things worse or prevent anyone else from helping.
-
-#### *Mitchell v Glasgow City Council* [2009] UKHL 11, [2009] 1 AC 874 (§21.3)
-- **F:** The council's tenant **Drummond** had threatened to kill his neighbour **Mitchell**. The council held a meeting warning Drummond about **eviction**, and he went home and **killed Mitchell with an iron bar**. The council had **not warned** Mitchell about the meeting.
-- **I:** Did the landlord's duty extend to **warning a tenant** of danger from a third party?
-- **R:** **Foreseeability alone is not enough** for a duty to protect against **third-party crime**. A duty needs an **assumption of responsibility** or a similar exception. It is **not FJR** to deter landlords from taking action against anti-social tenants.
-- **H:** **No DOC.** The established landlord–tenant duty **does not extend this far**.
-
-#### *James-Bowen v Commissioner of Police of the Metropolis* [2018] UKSC 40 (§21.3)
-- **F:** Officers accused of assaulting an arrestee were acquitted. The Commissioner then **settled the arrestee's civil claim**, admitting liability, and the officers sued for damage to their **reputations and careers**.
-- **I:** Does an employer's duty extend to protecting employees' reputation and economic interests **in how it conducts litigation**?
-- **R:** The **scope** of an employer's duty does not extend that far. It would conflict with the employer's own right to defend or settle claims.
-- **H:** **No DOC.**
-
-#### *Pickersgill v Riley* [2004] UKPC 14 (Privy Council, from Jersey) (§21.4)
-- **F:** Mr Riley, an **experienced businessman**, suffered loss in a commercial transaction and claimed his solicitor should have warned him of the **commercial risk**. **[CHECK details]**
-- **I:** Did the solicitor's DOC extend to advising on the **commercial wisdom** of the deal?
-- **R:** A solicitor's DOC exists, but **its scope is variable**. It depends on the **instructions** and the **circumstances**, including the client's **sophistication** (Lord Scott, [7]).
-- **H:** **Not liable.** There is no duty to protect a sophisticated client from commercial risks he understood.
-
-#### *Khan v Meadows* (also *Meadows v Khan*) [2021] UKSC 21 (§13.2, §21.5)
-- **F:** P asked her GP (D) whether she carried the **haemophilia gene**. She was **wrongly advised** that she did not. Her son was born with **haemophilia and (unrelated) autism**.
-- **I:** Is D liable for the extra costs of **autism** as well as haemophilia?
-- **R:** **Scope of duty:** what risks did D owe a duty to protect P against? The **seven-question model** is at [79] (Lord Burrows). **Ask scope before breach where possible** ([38]).
-- **H:** **Liable only for the haemophilia-related costs.** Autism was **outside the scope of the duty**.
-
-#### *South Australia Asset Management Corp v York Montague Ltd* (SAAMCO) [1997] AC 191 (HL) (§21.5)
-- **F:** Valuers **negligently overvalued** properties, lenders lent on them, and the **property market then fell**.
-- **I:** Are the valuers liable for the **whole loss**, including the market fall?
-- **R:** D is liable only for loss that is the **consequence of the information being wrong** (the "duty nexus").
-- **H:** Liability was **limited to the amount of the overvaluation**.
-
-#### *Manchester Building Society v Grant Thornton UK LLP* [2021] UKSC 20 (§21.5)
-- **F:** Auditors negligently advised that the society could use **hedge accounting** for its interest-rate swaps. When the rules were correctly applied, the society **closed the swaps at a large loss**.
-- **I:** Was the loss **within the scope** of the auditors' duty?
-- **R:** Consider the **purpose of the duty** and whether the loss flows from the **risk the duty guarded against**.
-- **H:** **Liable.** The loss was within scope, but **damages were reduced 50% for contributory negligence**.
-
-#### Drug dealers stabbing (§14) **[CASE TBC]**
-- **F:** Two drug dealers were packing drugs and **one accidentally stabbed the other**.
-- **R:** **Illegality / joint illegal enterprise.** No DOC is owed between participants in a joint crime.
-- **H:** **No DOC.** (Compare *Vellino*.)
-
----
-
-### Part C — Breach
-
-#### *Blyth v Birmingham Waterworks Co* (1856) 11 Ex 781 (§24.2)
-- **F:** A **fire plug** in D's water main leaked during an **unprecedentedly severe frost** and **flooded P's house**.
-- **I:** Was D negligent?
-- **R:** Negligence is failing to do what a **reasonable man** would do, or doing what a **prudent and reasonable man** would not (Alderson B).
-- **H:** **Not liable.** A reasonable person would not guard against such an **exceptional frost**.
-
-#### *Hall v Brooklands Auto-Racing Club* [1933] 1 KB 205 (CA) (§24.3) **[CHECK: whether cited in lectures]**
-- **F:** Two cars collided at a racing track and one went into the crowd, killing spectators.
-- **I:** Did the track owner breach its duty to spectators?
-- **R:** The standard is that of the **reasonable person**, "**the man on the Clapham omnibus**".
-- **H:** **Not liable.** Such an accident was not reasonably foreseeable.
-
-#### *Glasgow Corporation v Muir* [1943] AC 448 (HL) (§24.3) **[CHECK: whether cited in lectures]**
-- **F:** Two people carried a **tea urn** through a narrow shop passage where children were buying sweets. It slipped and **scalded children**.
-- **I:** Was the manageress negligent in allowing this?
-- **R:** The reasonable person is "**free both from over-apprehension and from over-confidence**" (Lord Macmillan).
-- **H:** **Not liable.** The risk was not reasonably foreseeable.
-
-#### *Bolton v Stone* [1951] AC 850 (HL) (§24.4)
-- **F:** A **cricket ball was hit out of the ground** and struck P on the road outside. Balls had cleared the fence only about **six times in 30 years**.
-- **I:** Did the club breach its DOC by not taking more precautions?
-- **R:** A reasonable person **need not guard against every foreseeable risk**. A risk that is **very small** can be disregarded.
-- **H:** **No breach.**
-
-#### *Nettleship v Weston* [1971] 2 QB 691 (CA) (§25.2)
-- **F:** D, a **learner driver**, was being taught by a friend (P). She failed to straighten the car after a turn and **hit a lamp post**, breaking P's knee.
-- **I:** Is a learner driver held to a **lower standard**?
-- **R:** **No.** All drivers are held to the standard of a **competent and experienced driver**. The standard is **objective and certain**.
-- **H:** **D was liable.** P's damages were reduced for his contributory negligence.
-
-#### *McHale v Watson* (1966) 115 CLR 199; [1966] ALR 513 (High Court of Australia) (§25.3)
-- **F:** **Barry Watson (12)** threw a sharpened metal rod at a wooden post. It **glanced off** and hit **Susan McHale** in the eye.
-- **I:** What standard applies to a **child** defendant?
-- **R:** The standard of a **reasonable child of the same age, intelligence and experience**, assessed **objectively** rather than by this child's actual characteristics.
-- **H:** **No breach.** A reasonable 12-year-old would not have foreseen the risk. **Judgment for Watson.**
-
-#### *Mullin v Richards* [1998] 1 WLR 1304 (CA) (§25.3)
-- **F:** Two **15-year-old schoolgirls** were **play-fencing with plastic rulers**. A ruler **snapped**, and a fragment **blinded one girl in one eye**.
-- **I:** Was the other girl negligent?
-- **R:** The standard of a **reasonable 15-year-old**.
-- **H:** **No breach.** Ruler fencing was **common** and the injury **not reasonably foreseeable**.
-
----
-
-##### Cases mentioned only inside quotations
-*Marc Rich v Bishop Rock Marine* [1996] AC 211 · *Canadian National Railway v Norsk Pacific* [1992] 1 SCR 1021 · *Minories Finance v Arthur Young* [1989] 2 All ER 105 · *White v Jones* [1995] · *McFarlane v Tayside Health Board* [2000] · *Law Society v KPMG* [2000] · *Z v United Kingdom* [2002] · *South Pacific Manufacturing v NZ Security Consultants* [1992] · *Murphy v Brentwood DC* [1991]. These are cited for background only; no brief is needed unless your tutor stresses them.
+**Cases mentioned only inside quotations:** *Marc Rich v Bishop Rock Marine* [1996] AC 211 · *Canadian National Railway v Norsk Pacific* [1992] 1 SCR 1021 · *Minories Finance v Arthur Young* [1989] 2 All ER 105 · *White v Jones* [1995] · *McFarlane v Tayside Health Board* [2000] · *Law Society v KPMG* [2000] · *Z v United Kingdom* [2002] · *South Pacific Manufacturing v NZ Security Consultants* [1992] · *Murphy v Brentwood DC* [1991]. These are cited for background only; no brief is needed unless your tutor stresses them.
 
 ## Appendix B — Statutes and constitutional provisions
 
@@ -1293,7 +1387,7 @@ The slides cite these **only to show who can be sued**. Their facts were not cov
 6. Authority for a **child driving a car** being held to the adult standard (§25.3).
 7. The **drug dealers** illegality case (§14).
 8. The **McDonald's** case (§5).
-9. HK cases on who can be sued (§11.2): facts not covered; see Appendix A.
+9. HK cases on who can be sued (§11.2): facts not covered; see the 📘 box in §11.2.
 
 ## Appendix E — Reading list
 
