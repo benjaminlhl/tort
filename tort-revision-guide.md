@@ -1,6 +1,6 @@
 # Tort Law — Full Revision Guide
 
-> Built from lecture notes. Cases to be supplemented later.
+> Built from lecture notes (foundations, duty of care, breach). Cases to be supplemented later.
 >
 > **Key:**
 > - **[CHECK]** = unclear or incomplete in the notes; verify against slides/readings.
@@ -23,7 +23,7 @@
 7. [Parties: who can sue and be sued; immunities](#7-parties-who-can-sue-and-be-sued-immunities)
 8. [Remedies](#8-remedies)
 
-**Part B — Negligence: Duty of Care (Lectures 2–3)**
+**Part B — Negligence: Duty of Care (Lecture 2 onwards)**
 
 9. [Negligence: overview and exam checklist](#9-negligence-overview-and-exam-checklist)
 10. [Duty of care as a legal filter](#10-duty-of-care-as-a-legal-filter)
@@ -31,6 +31,16 @@
 12. [Development after 1932](#12-development-after-1932)
 13. [The current approach to establishing a DOC](#13-the-current-approach-to-establishing-a-doc)
 14. [The *Caparo* factors in detail](#14-the-caparo-factors-in-detail)
+15. [Public authorities and the police](#15-public-authorities-and-the-police)
+16. [Omissions: no general duty to confer a benefit](#16-omissions-no-general-duty-to-confer-a-benefit)
+17. [Scope of duty](#17-scope-of-duty)
+18. [Duty of care: putting it together](#18-duty-of-care-putting-it-together)
+
+**Part C — Negligence: Breach of Duty**
+
+19. [Breach: the two questions](#19-breach-the-two-questions)
+20. [The objective standard and the reasonable person](#20-the-objective-standard-and-the-reasonable-person)
+21. [How objective is the objective standard?](#21-how-objective-is-the-objective-standard)
 
 **Appendices**
 - [A. Case list (to supplement)](#appendix-a--case-list-to-supplement)
@@ -417,6 +427,10 @@ STEP 3  If genuinely novel: consider the Caparo factors
 > - E.g. in claims for **economic loss** or **psychiatric injury**, P may show a **clear relationship of proximity** with D.
 
 ### 14.3 Fair, just and reasonable (public policy)
+- The third *Caparo* question looks at the **broader policy and social implications** of recognising (or refusing) a DOC.
+- Judges consider the **public interest**: **what harm would be caused if a DOC is granted, and what harm if it is denied**.
+- FJR usually **plays a bigger role where the harm is *not* foreseeable physical injury**, e.g. economic loss or psychiatric harm. See "PI vs other types of harm" below.
+- It is inevitably somewhat **subjective**, because it depends on the judge's view of **what public policy requires**.
 - A **major shift away from the particular parties** to **broader public policy considerations**.
 - **Why?** Because of **precedent**. Once a court **establishes a new or extended DOC**, it **applies to everyone**. Later courts won't need *Caparo*, and **suddenly everyone in society owes that duty**.
 - The court must **balance the whole of society's interests**: the **total detriment to the public interest** of holding a class of people liable for negligence.
@@ -457,6 +471,210 @@ STEP 3  If genuinely novel: consider the Caparo factors
 
 ---
 
+## 15. Public authorities and the police
+
+### 15.1 Public authorities (PAs) and statutory duties
+- Many PAs have **statutory duties or powers to protect the public from harm**.
+- **General rule:** a PA **will not face negligence liability merely for failing to perform its statutory duty**. **Breach of a statutory duty to protect the public does not by itself create a common law DOC.**
+  - Legislation **gives PAs public powers to protect the public**, but that does **not** make them liable in negligence every time they fail to use those powers.
+  - There is **no common law liability** even when a PA **fails in its statutory duty to prevent harm**.
+- **However:** PAs **are subject to negligence claims** for failing to meet the **ordinary tort duties that any other defendant must follow**. E.g. a council driver who carelessly runs someone over is liable like anyone else.
+- Link this to the **policy vs operational** distinction in *Dorset Yacht* (§12.2).
+
+> *Extra (not from notes):* the leading English authorities on this point are *Stovin v Wise* [1996] AC 923 and *Gorringe v Calderdale MBC* [2004] UKHL 15. **[CHECK whether covered]**
+
+### 15.2 The police
+**General rule:** **no DOC** to members of the public to **protect them from harm caused by third parties** (e.g. to prevent crime).
+
+**Why not?**
+1. **No proximity.** The police have **no proximity with the general public**, unless an exception applies.
+2. **Public policy concerns:**
+   - **Defensive policing.** If police can be sued, they may focus on **protecting themselves** from lawsuits rather than **doing their job**.
+   - **Counter-argument:** liability might **force them to do a better job**.
+   - **Response:** courts **should not second-guess the police's operational priorities**.
+
+**Example (serial killer):** you call the police to report a serial killer. They say "OK, we will investigate", but the victim is later killed. **The family cannot sue.** **[CASE TBC]** *(this matches* Hill v Chief Constable of West Yorkshire *[1989] AC 53, the Yorkshire Ripper case)*
+
+**Exceptions: when the police may owe a DOC**
+
+| Exception | Explanation |
+|---|---|
+| **Assumption of responsibility** | The police **specifically assumed responsibility** for something, e.g. "we will cover this" or "we'll watch your house" (§14.2). |
+| **Preventing P from protecting themselves** | The police **prevent someone from taking steps to protect** themselves, or **act in a way suggesting others need not worry**. |
+| **Positive acts causing direct injury** | Where **police negligence directly causes injury** (a positive act, not a failure to protect), ordinary principles apply and a DOC is owed, **unless a statute makes this impossible**. See ***Robinson v CC West Yorkshire* [2018] UKSC 4**: officers arresting a suspect knocked over an elderly passer-by. |
+
+> *Extra (not from notes):* *Michael v Chief Constable of South Wales* [2015] UKSC 2 (a 999-call case) confirms the general no-duty rule and these exceptions. **[CHECK whether covered]**
+
+---
+
+## 16. Omissions: no general duty to confer a benefit
+
+**General rule:** there is **no DOC to confer a benefit** on another person. **Protecting someone from harm counts as conferring a benefit.**
+
+| **Acts causing harm (misfeasance)** | **Failure to protect or benefit (nonfeasance)** |
+|---|---|
+| A DOC **will generally arise**. | **Generally no DOC.** |
+| E.g. careless driving that injures someone. | E.g. you **see a person drowning in a lake** and do nothing. **No liability.** |
+
+- **Exceptions** mirror §15.2: **assumption of responsibility**, **control over a third party** (*Dorset Yacht*, §12.2), **creating the danger**, and **preventing others from helping**. **[CHECK: the full list of exceptions taught]**
+- In exam answers, **classify D's conduct first**: is this **making things worse** (an act) or **failing to make things better** (an omission)?
+
+---
+
+## 17. Scope of duty
+
+### 17.1 The idea
+- Besides asking **whether a DOC exists**, ask a related question: **what is the extent or scope of the duty?**
+- A duty may be **established by precedent**, but it still has to **cover the kind of harm and the facts** in question.
+- Scope of duty is **another way of limiting the number of negligence claims**.
+- The scope of the duty **depends on the facts**, and is assessed **by reference to the kind of damage** suffered.
+
+**Bouncer example (from lecture):** a club requires customers to wear leather, and the bouncer turns someone away because he doesn't like their leather, or thinks there isn't enough of it. **[CHECK: the point this example was making. It seems to illustrate that an existing rule or duty doesn't automatically cover every situation it might be stretched to.]**
+
+### 17.2 *Darnley v Croydon Health Services NHS Trust* [2018] UKSC 50: scope extended
+- The court held it must also consider the **scope of the duty to take reasonable care**.
+- **Issue:** does the **established doctor/hospital–patient duty** extend to **not giving misleading information** (the wrong waiting time) that **may cause physical injury**?
+- One could argue the duty covers only **actual medical services**, not information from reception.
+- **Held:** the harm **fell within the scope of the duty owed by the hospital**. The scope of the established duty was **extended**. (Facts at §13.3.)
+
+### 17.3 *Mitchell v Glasgow City Council* [2009] UKHL 11: scope not extended
+- **Established duty:** a **landlord owes duties to its tenants**, including to provide a **liveable property** (a property law point).
+- **Issue:** does the scope of that duty **extend to warning a tenant about a violent fellow tenant**?
+- **Facts:** the council knew the other tenant had **previously threatened his neighbour** (Mitchell). The council met the tenant about his behaviour and the possibility of **eviction**, and he became **very angry**. He then **killed Mitchell**. Mitchell's family sued the council in common law negligence for **failing to warn** that he might be in danger. **[CHECK facts against the case]**
+- **Held: no DOC.**
+  - **Foreseeability of harm is not enough** to create a duty to protect against a **third party's criminal act**.
+  - **FJR:** imposing a legal duty to **warn neighbours** is **not in the public interest**. It could **deter landlords from taking action** such as trying to evict. If every eviction attempt triggered a duty to warn the neighbours, landlords might do nothing. *(The lecturer questioned how convincing this argument is.)*
+  - The **established category** of landlord–tenant duty **does not extend this far**.
+- **Lesson:** when evaluating a problem, ask **both** questions. **Is there a DOC? Does the scope of the DOC cover these facts?**
+
+### 17.4 *Pickersgill v Riley* [2004] UKPC 14: commercial setting
+- **Solicitor–client** is an established DOC, but **what does it cover?**
+- **Facts:** Mr Riley was a **sophisticated businessperson** who was **not completely in the solicitor's hands**. He was well qualified to understand the transaction and **should have been fully aware of the risks**.
+- This was a **financial loss** case, and courts are **much more sceptical** about a DOC in that context.
+- **Held:** solicitors have **no automatic duty to protect clients from their own commercial missteps**.
+  - The duty owed by a solicitor **may be higher for an unsophisticated or vulnerable client**, and **lower for a sophisticated one**.
+- **Exam tip:** in a **solicitor negligence** question, it is **not enough to say "established category" and move on**. Under *Pickersgill* you must consider **whether the duty covers these particular facts**.
+
+### 17.5 Where does scope of duty go in an answer?
+- It can be raised under **duty** or later, e.g. when discussing **causation**.
+- **Where you raise it matters less than *that* you raise it.**
+- Cite ***Meadows v Khan* [2021] UKSC 21** (see also §9).
+
+---
+
+## 18. Duty of care: putting it together
+
+**Recommended order in an exam answer:**
+1. **Look at precedent.** Is there an **established category** of DOC (or of no DOC)?
+2. If not, or if it is borderline, apply the **factors raised by the *Caparo* test** (foreseeability, proximity, FJR).
+3. **Decide whether it is appropriate to extend the DOC** incrementally to these facts.
+4. **Check the scope of the duty.** Does the duty cover **this kind of harm on these facts**?
+5. Consider **special rules**: **omissions** (§16), **public authorities and police** (§15), and **type of loss** (PEL, psychiatric harm).
+
+> ⚠️ **Always deal with duty before breach.** Only once a DOC is established do you move on to the **standard of care**, which belongs to the **breach** element.
+
+---
+
+# PART C — NEGLIGENCE: BREACH OF DUTY
+
+> Breach is **usually the most obvious question in a tort problem**. Students often jump straight to it, but **always establish duty first** (Part B).
+
+## 19. Breach: the two questions
+
+| | Question | Type | Explanation |
+|---|---|---|---|
+| **1** | **What is the standard of care?** | **Question of law** | What would the **reasonable person** in D's position have done? |
+| **2** | **Did D's conduct fall short of that standard?** | **Question of fact** | Compare what D **actually did** with the standard. **If D fell short, there is a breach; if D met it, there is no breach.** |
+
+**Simple example: road accident**
+- **DOC:** established, since road users owe a DOC to other road users (§13.1).
+- **Q1 (law):** the standard is that of a **reasonably competent driver**.
+- **Q2 (fact):** in this case, did D's driving **fall short** of that standard?
+
+**Points to note**
+- The **facts of the case play a huge role in the second question.**
+- **Pleadings:** P must set out the **particulars of negligence**. These are the **exact acts or omissions** complained of, stated **specifically**.
+- **Judge D fairly, prospectively.** Put yourself, as far as possible, **at the time of the accident**, **without knowing the accident would happen**. **Do not use hindsight.**
+
+---
+
+## 20. The objective standard and the reasonable person
+
+### 20.1 What "objective" means
+- It does **not** mean objective in a literal or philosophical sense.
+- It means the standard is judged **not from D's own perspective**, but from the perspective of **a reasonable person**.
+
+### 20.2 The classical formulation: *Blyth v Birmingham Waterworks Co* (1856)
+- **Facts:** a **fire plug in a water main** had allegedly been **negligently installed**. During an **unprecedentedly severe winter frost**, it leaked and **P's house was flooded**.
+- **Held: not liable**, even though the water damage came from the fire plug.
+  - The cold was **so exceptional**, a **freak act of nature**, that a reasonable person would not have guarded against it.
+- *Extra (not from notes):* this case gives the classic definition. Negligence is "**the omission to do something which a reasonable man, guided upon those considerations which ordinarily regulate the conduct of human affairs, would do, or doing something which a prudent and reasonable man would not do**" (Alderson B). **[CHECK whether you need it verbatim]**
+
+### 20.3 Who is the reasonable person?
+- **Not a real person.** It is a **fictional construct created by the common law** (a judicial construct).
+- **Not the same as the average or ordinary person.**
+  - Average people occasionally do unreasonable things, e.g. **checking their phone while driving**. Many people do this sometimes.
+  - **A reasonable person would never check their phone while driving.**
+  - So **what the average person does is not what the reasonable person does**.
+- **Careful and prudent, and does the proper thing.** **Not perfect, but not irresponsible.**
+- Something in between: think of **the average person always on their best behaviour**.
+- Traditionally described as **"the man on the Clapham omnibus"**. **[CHECK: source. Usually attributed to *Hall v Brooklands Auto-Racing Club* [1933].]**
+- The reasonable person is **"free both from over-apprehension and from over-confidence"**. Ordinary people have strengths and weaknesses; the reasonable person is **"just right"**. **[CHECK: source. Usually *Glasgow Corporation v Muir* [1943] AC 448, Lord Macmillan.]**
+
+### 20.4 *Bolton v Stone* [1951] AC 850: no duty to eliminate every risk
+- **Facts:** a cricket ball was **hit out of the ground** and injured P, who was standing on the road outside. P sued the **cricket club** in both **negligence** and **nuisance**, arguing the club breached a DOC owed to passers-by.
+- **Held (House of Lords): no breach.**
+  - A ball being hit out was **possible**, but the **frequency and likelihood were so tiny** that a reasonable person in the club's position would have been **justified in disregarding the risk**.
+  - Being **ordinarily careful does not mean eliminating all potential risks**. Otherwise clubs would face a **huge burden** and **unrealistic measures** to prevent every unlikely risk.
+  - "**An ordinary man does not take precautions against every foreseeable risk.**" He takes **certain precautions, but not all.**
+- Link this to **optimal accident prevention** (§3.4).
+
+---
+
+## 21. How objective is the objective standard?
+
+### 21.1 The general rule
+
+| Direction | Rule |
+|---|---|
+| **Lowered?** | **Only for children**, in general. **Not** for **physical or mental incapacity**. |
+| **Raised?** | **More often**, for people **professing or possessing special skills** (e.g. professionals). **[To be covered in later notes]** |
+
+**Why no lowering for incapacity?**
+- A reasonable person who is **blind, deaf or has trouble moving** will **take that into account in everything they do**. They are expected to **modify their behaviour to suit their own situation**.
+- A **blind adult** can take account of being blind. An **8-year-old cannot take account of being 8**, which is why children are treated differently.
+- E.g. a **98-year-old who can barely see** gets **no discount**. The required standard of care is **not lowered**.
+
+> **Exam tip:** ask yourself **in what situations the standard would be lowered or raised**, and whether D falls into one of them.
+
+### 21.2 Inexperience: *Nettleship v Weston* [1971] 2 QB 691
+- **Issue:** should a **learner driver** be judged by a **lower standard of care**?
+- **Held: no.** It is preferable to have a **reasonably certain standard of care**.
+  - **Anyone operating a car** is expected to meet the standard of the **competent and experienced driver**.
+  - There is **no such thing as a "brand new driver" standard**.
+  - **A learner driver owes the same standard of care as any other driver.**
+- *Link:* compulsory motor insurance (§6.3) is part of why courts are comfortable with this.
+
+### 21.3 Children: the standard is lowered (objectively)
+- **The one exception** to the general rule against lowering the standard.
+- The standard is lowered **objectively**. It is **not what this particular child knew**, but what **a reasonable child of D's age and experience** would have foreseen.
+- This is tricky and not very realistic, because **children of the same age develop very differently**.
+
+**McHale v Watson (1966, High Court of Australia)** **[CASE TBC: confirm name]**
+- A **12-year-old boy** threw a sharp object that glanced off a post and injured a girl.
+- **Held:** judged by the standard of a **reasonable child of the same age, intelligence and experience**, **not an adult standard**, applied **objectively**.
+  - The court does **not literally examine this boy's background**. It asks what a **typical boy of that age and type** would be expected to foresee and know.
+- The court ruled **in favour of Watson** (D). **No breach**, because he **met the standard** of a reasonable 12-year-old.
+- **Exception to the exception:** a child who **drives a car** is **held to the adult standard**. **[CHECK: authority]**
+
+***Mullin v Richards* [1998] 1 WLR 1304** **[CHECK name]**
+- **Facts:** two **15-year-old schoolgirls** were **play-fighting with plastic rulers**. One ruler **snapped**, and a fragment **partially blinded** one girl, who sued for the cost of the harm.
+- **Held:** they were **close to adulthood but still children**, so the standard is that of a **reasonable 15-year-old**.
+  - **Fencing with plastic rulers was common**, and this was a **freak accident**.
+  - A **reasonable 15-year-old would not have foreseen the risk of serious injury**, so there was **no breach**.
+
+---
+
 # APPENDICES
 
 ## Appendix A — Case list (to supplement)
@@ -470,13 +688,22 @@ STEP 3  If genuinely novel: consider the Caparo factors
 | *Anns v Merton LBC* [1978] AC 728 | DOC test | Two-stage test | |
 | *Caparo v Dickman* [1990] 2 AC 605 | DOC test | Foreseeability, proximity, FJR | |
 | *Robinson v CC West Yorkshire* [2018] UKSC 4 | DOC method | *Caparo* only for novel cases; follow established categories | |
-| *Darnley v Croydon Health Services* [2018] UKSC 50 | DOC: established category | Hospital receptionist; no medical/non-medical distinction | **[CHECK]** |
+| *Darnley v Croydon Health Services* [2018] UKSC 50 | DOC: established category; scope of duty | Hospital receptionist; no medical/non-medical distinction; misleading information falls within the scope of the hospital's duty | |
 | 2022 local case | Incremental approach | Precedent not clearly controlling, so incremental approach | **[CASE TBC]** |
 | Airplane theft case | Foreseeability; proximity | Only some harm need be foreseeable; factual relationship and vulnerability create proximity | **[CASE TBC]** |
-| Police cases | Common law immunity; proximity | No DOC to the public to prevent crime; assumption of responsibility | **[CASE TBC]** |
+| *Hill v CC West Yorkshire* [1989] AC 53 *(serial killer example)* | Police | No DOC to the public to prevent crime; no proximity; policy (defensive policing) | **[CASE TBC: confirm]** |
+| *Robinson v CC West Yorkshire* [2018] UKSC 4 | Police: positive acts | Police negligence that directly causes injury gives rise to a DOC | |
+| *Mitchell v Glasgow City Council* [2009] UKHL 11 | Omissions; scope of duty | Landlord's duty does not extend to warning of a violent tenant; foreseeability is not enough for third-party crime | |
+| *Pickersgill v Riley* [2004] UKPC 14 | Scope of duty (commercial) | Solicitor has no automatic duty to protect a sophisticated client from commercial missteps | |
+| *Meadows v Khan* [2021] UKSC 21 | Scope of duty | Scope of duty must be raised; where it is raised matters less | |
 | Drug dealers stabbing | Illegality | No DOC in an illegal joint enterprise | **[CASE TBC]** |
 | *Grimes v Hawkins* | FJR | No DOC to an adult diver; voluntary risk | **[CASE TBC]** |
 | "Spring" | Caution with policy | Policy reasons must be clear to deny a duty | **[CHECK]** |
+| *Blyth v Birmingham Waterworks* (1856) 11 Ex 781 | Breach: reasonable person | Classic definition; no liability for an unprecedented frost | |
+| *Bolton v Stone* [1951] AC 850 | Breach: probability of harm | No need to guard against a tiny risk; no duty to eliminate all risk | |
+| *Nettleship v Weston* [1971] 2 QB 691 | Breach: inexperience | Learner driver held to the standard of a competent, experienced driver | |
+| *McHale v Watson* (1966) 115 CLR 199 | Breach: children | Standard of a reasonable child of the same age, intelligence and experience | **[CHECK]** |
+| *Mullin v Richards* [1998] 1 WLR 1304 | Breach: children | Reasonable 15-year-old would not foresee injury from ruler fencing | **[CHECK]** |
 
 ## Appendix B — One-page summary
 
@@ -494,7 +721,14 @@ STEP 3  If genuinely novel: consider the Caparo factors
 | DOC filter | Acts vs omissions · Type of loss · Type of relationship |
 | Donoghue | Neighbour = those so closely and directly affected that I ought reasonably to have them in contemplation |
 | Method | Established category → incremental → *Caparo* (*Robinson*) |
-| Caparo | Foreseeability (possibility of some harm) · Proximity (physical, relationship, assumption of responsibility, vulnerability) · FJR (floodgates, indeterminate liability, defensive practice, public budget) |
+| Caparo | Foreseeability (possibility of some harm) · Proximity (physical, relationship, assumption of responsibility, vulnerability) · FJR (floodgates, indeterminate liability, defensive practice, public budget); FJR matters most where there is no physical injury |
+| Public authorities | No negligence liability merely for failing a statutory duty; liable for ordinary torts like anyone else |
+| Police | No DOC to prevent third-party harm (*Hill*) unless there is assumption of responsibility, prevention of self-protection, or a positive act causing injury (*Robinson*) |
+| Omissions | No general duty to confer a benefit (drowning stranger); acts causing harm → DOC |
+| Scope of duty | Does the established duty cover these facts and this kind of damage? *Darnley* (yes) · *Mitchell* (no) · *Pickersgill* (no) · *Meadows v Khan* |
+| Breach: two questions | Standard of care (**law**) → did D fall short (**fact**)? No hindsight |
+| Reasonable person | Fictional; not the average person; free from over-apprehension and over-confidence; need not eliminate all risk (*Blyth*, *Bolton v Stone*) |
+| Standard adjusted? | Not lowered for inexperience or incapacity (*Nettleship*); lowered for children (*McHale*, *Mullin*); raised for special skills |
 
 ## Appendix C — Open questions (check against slides)
 1. Which **HK Ordinances** spread loss directly (§3.1)?
@@ -504,3 +738,7 @@ STEP 3  If genuinely novel: consider the Caparo factors
 5. What is "**spring**" in the FJR caution point? (§14.3)
 6. Examples for **type of person / relationship** as a DOC factor (§10).
 7. **Scope of duty**: which model does the course use? (§9)
+8. **Bouncer / leather example**: what point was it making? (§17.1)
+9. Which **exceptions to the omissions rule** were taught? (§16)
+10. Authority for a **child driving a car** being held to the adult standard (§21.3).
+11. Confirm the *Mitchell* facts (§17.3).
