@@ -65,6 +65,7 @@
 23. [Breach: the two questions](#23-breach-the-two-questions)
 24. [The objective standard and the reasonable person](#24-the-objective-standard-and-the-reasonable-person)
 25. [How objective is the objective standard?](#25-how-objective-is-the-objective-standard)
+26. [Tutorial: breach of duty problem questions](#26-tutorial-breach-of-duty-problem-questions)
 
 **Appendices**
 - [A. Case index](#appendix-a--case-index)
@@ -1221,7 +1222,7 @@ The approach is therefore **holistic** (*Luen Hing Fat*, §16.5).
 | Direction | Rule |
 |---|---|
 | **Lowered?** | **Only for children**, in general. **Not** for **physical or mental incapacity**. |
-| **Raised?** | **More often**, for people **professing or possessing special skills**. **[To be covered in later notes]** |
+| **Raised?** | **More often**, for people **professing or possessing special skills**, including professionals (*Bolam* / *Bolitho*). See the tutorial, §26 Q1(c) and Q6. |
 
 **Why no lowering for incapacity?**
 - A reasonable person who is **blind, deaf or has trouble moving** will **take that into account in everything they do**, and must **modify their behaviour** accordingly.
@@ -1274,6 +1275,158 @@ The approach is therefore **holistic** (*Luen Hing Fat*, §16.5).
 > - **H:** **No breach.** Ruler fencing was **common** and the injury **not reasonably foreseeable**.
 >
 > ---
+
+---
+
+## 26. Tutorial: breach of duty problem questions
+
+> **Tutorial premise:** in every negligence action P must prove D **breached** the DOC, i.e. D's conduct **fell below the standard expected in the circumstances**.
+> - **The standard is a question of law.** It is the **reasonable person**, **modified for any special skills, knowledge or characteristics** D has, where appropriate.
+> - **Whether D fell below it is a question of fact** (§23).
+>
+> *Linked cases* = cases not named in the tutorial notes but likely relevant. **[CHECK them against the breach slides]**
+
+### 26.0 Answer template for breach questions
+1. **Identify the DOC** briefly (established category?), then move to breach (§22).
+2. **Set the standard (law):** the reasonable person in D's position. **Is it adjusted?**
+   - **Lowered** for **children** (§25.3).
+   - **Not lowered** for **inexperience** (*Nettleship*) or, generally, **incapacity** (§25.1).
+   - **Raised** for those who **possess or profess special skill**, including professionals (*Bolam* / *Bolitho*).
+3. **Apply the standard (fact).** Weigh the **breach factors**:
+
+| Factor | Points towards breach when… | Authority |
+|---|---|---|
+| **Probability of harm** | Harm is **likely** | *Bolton v Stone* (§24.4) |
+| **Magnitude / seriousness of harm** | The harm would be **severe**, e.g. death | *Linked:* *Paris v Stepney BC* [1951] AC 367 |
+| **Cost / practicability of precautions** | Precautions are **cheap and easy** | *Linked:* *Latimer v AEC Ltd* [1953] AC 643 |
+| **Social utility of D's conduct** | D's activity has **little** social value (emergencies reduce the standard expected) | *Linked:* *Watt v Hertfordshire CC* [1954] 1 WLR 835 |
+| **Common / professional practice, guidelines** | D **departed** from accepted practice or internal guidelines | *Bolam*; Q4 |
+
+4. **No hindsight.** Judge D **at the time**, on what D knew (§23).
+5. **Argue both ways** where the facts are thin, and say **which outcome is more likely**.
+6. Flag **other issues** (e.g. **contributory negligence**) and **defences** (§13.2).
+
+---
+
+### Q1. Craft workshop: a child, an adult with a cognitive disability, and an expert
+
+**(a) Leo, 10, carelessly swings a heavy metal hammer and injures an attendee**
+- **Standard:** an **objective** standard: a **reasonable child of similar age and experience** (*McHale v Watson*; *Mullin v Richards*).
+- **Question:** would a reasonable 10-year-old know that carelessly swinging a **heavy metal hammer** risks harming others?
+  - **Contrast a 4-year-old.** A 4-year-old swinging a hammer would probably **not be in breach**. The better argument there is that the child should have been **better supervised**, which is a claim against the supervisor.
+  - At 10, a child can be expected to understand the **specific dangers** of a heavy hammer.
+- **Could be argued both ways**, but **breach is more likely**. A reasonable 10-year-old should understand the consequences of carelessly swinging a heavy metal hammer.
+
+**(b) Sam, an adult with a severe cognitive disability who lacks capacity to understand the physical risks, drops heavy shears on a bystander's foot**
+- **General principle:** for adults with **mental incapacity**, there is **generally no reduction** in the standard of care (§25.1).
+- **Possible exception:** where D's ability to understand the risk is **entirely taken away**, the court **might excuse** D.
+  - Lecture example: a D with a **rare brain condition** was held **not negligent**. It was appropriate to take the condition into account, because D **could not have foreseen** the danger and could have done **nothing differently**. **[CASE TBC]** *(Linked: likely* Mansfield v Weetabix Ltd *[1998] 1 WLR 1263 (CA). A lorry driver had an undiagnosed condition causing hypoglycaemia that impaired his driving without his knowledge, and was held not liable. Contrast* Dunnage v Randall *[2015] EWCA Civ 673, where D was liable despite acute mental illness because he had not lost all control.)*
+- **Key words:** "**lacks the capacity to understand the physical risks**". The answer turns on **how severe** Sam's cognitive disability is. **Absolute** lack of capacity to understand the risk and what is happening gives a stronger argument for no breach.
+- **Separate claim:** the bystander may have a **separate negligence claim** against the **workshop organiser or supervisor**, e.g. for letting Sam handle sharp tools.
+
+**(c) Marcus, a master carpenter supervising the workshop who advertised his advanced credentials, leaves a high-powered sander running near the edge of a wobbly table**
+- **Any adult** would likely be found negligent for leaving a high-powered sander running on a wobbly table.
+- **The added fact means a higher expectation.** A **skilled professional certainly knows the danger** of the machine and would not leave it like that.
+- **"Advertised his advanced credentials":** someone who **holds themselves out as having special skills is held to that higher standard**, **even if they don't actually have them**.
+- The higher standard is **not really necessary to the outcome**, since he fails even the ordinary standard, but it is **worth mentioning**.
+- **Clear breach.**
+
+---
+
+### Q2. Roadside helper fails to tighten the wheel nuts; the spare falls off; two drivers injured
+- **Duty first:** had the man **driven by**, he would **not be liable**, because there is no duty to rescue (§20, omissions). **Once he stopped and started the task, he assumed responsibility**, so a DOC arises and he can be sued in negligence.
+- **Standard:** a **reasonable person performing this task**, i.e. a **reasonably competent person doing an ordinary car task** such as changing a tyre.
+  - He is **not a professional mechanic** and **did not claim any special skill**. He only offered help. So **no mechanic's standard**, unless he had held himself out as one, e.g. by wearing a mechanic's uniform.
+  - *Linked:* *Wells v Cooper* [1958] 2 QB 265 (CA): a householder doing DIY carpentry was judged by the standard of a **reasonably competent amateur** doing that job, not a professional.
+- **Did he meet the standard?**
+  - The facts are thin: all we know is that he **failed to fully tighten the nuts**. It **sounds like a mistake** on his part.
+  - A reasonable person replacing a tyre would **not treat the task as complete until the nuts were fully tightened**, because they would be **aware of the risk** if not.
+  - If he **simply omitted a key step**, that falls below the standard. If he couldn't finish the job, a reasonable person would have **told her** so.
+  - There is inevitably **some subjective judgement** in this assessment.
+- **Likely breach.** The woman and the other driver (a foreseeable road user) are both potential claimants.
+
+---
+
+### Q3. A voluntary rescuer wraps a boy's bleeding head with a worn T-shirt; infection follows
+- **Duty:** the man **voluntarily assumed responsibility** by stopping to help, so he **assumed a DOC**. He is a **voluntary rescuer**.
+- **Standard:** the **general reasonable person** standard. **Not a medical professional's standard.**
+- **Factors in judging whether he breached the duty of reasonable care:**
+  - **The emergency.** He is not a medical professional and **cannot judge from steady bleeding** whether the boy's life is in danger. It would not be fair to say his action was **unnecessary or unreasonable**.
+  - **Against:** the ambulance was **only 10 minutes away** and the boy was **conscious**, so he **could have just waited**.
+  - **For:** the time was only **"reported"** as 10 minutes. He **can't know** it really is 10 minutes, or what might happen in that time. A reasonable person seeing a child **bleeding steadily from the head** might reasonably act to **stop the blood loss**.
+  - **The T-shirt:** it was **clean-looking**, with **no visible dirt**. Assume nothing better was available. A layperson **might not know the comparative risks**, although many people know the risk of using something **non-sterile**.
+- **Courts tend to be sympathetic** to well-intentioned rescuers who **did their best and acted reasonably on what they knew at the time** (no hindsight). Such rescuers are **unlikely to be found negligent unless they were reckless**.
+  - **Contrast:** a T-shirt **visibly full of dirt** would look **reckless**. Here it looked clean, and he was thinking about **the boy's continued head bleeding** in a crisis.
+- **Fact-specific and arguable both ways**, but **probably no breach**.
+
+---
+
+### Q4. A police car on an emergency call slows to 20 km/h through a red light but hits a pedestrian hidden behind a bus
+- **Standard:** a **reasonable police driver in an emergency situation**.
+  - *Linked:* emergency services get **some allowance for the social utility** of what they are doing (*Watt v Hertfordshire CC*), but they must still take care for other road users.
+- **Factors indicating breach:**
+  - **Failure to follow internal police guidelines.** He did not come to a complete stop at a blind intersection. This is **one factor indicating breach**, but it is **not conclusive in itself**.
+  - **What would a reasonable driver do?** **Make sure he can see whether pedestrians are on the crossing** before proceeding. His view was **blocked by a bus**, so he should have **stopped**.
+  - A driver must, even in an emergency, **ensure they are not putting people on the road in jeopardy**. The pedestrian was crossing **legally, on a green signal**.
+- **A strong claim of breach.**
+- *Link:* this is a **positive act directly causing physical injury**, so a DOC is owed in the usual way (*Robinson*, §19.3).
+
+---
+
+### Q5. Teacher allows teenage pupils to swim "no further than waist-deep"; a pupil disobeys twice and drowns
+- **Arguable both ways.** The **pupils' age** matters: the analysis differs for **13-year-olds and 17-year-olds**.
+
+| **Breach** | **No breach** |
+|---|---|
+| A reasonable teacher would **foresee that some children will disobey** instructions. In fact some **already had**. | **17-year-olds** can be expected to **follow instructions**. The pupil **chose to ignore** a **repeated** instruction. |
+| The **magnitude of harm** is **severe** (drowning), and **foreseeable** (Factor 2: seriousness of harm). | The teacher **did take steps**: setting a limit, calling pupils back, reprimanding them, and repeating the rule. |
+| **Warning twice was not enough** given the magnitude of the risk. The foreseeability of **serious injury** required **greater precautions**, e.g. **not allowing them to swim at all** after the first breach. | With **13-year-olds**, the court is **less likely to excuse** the teacher. |
+| **"Waist-deep" is a vague instruction.** There may be **sudden drop-offs**, and depth changes with the tide and waves. | |
+
+- **Conclusion:** on these facts it **looks like a weak case for the teacher**, i.e. **breach is more likely**.
+
+---
+
+### Q6. ER doctor misreads a hairline wrist fracture as a sprain; experts say a responsible body of doctors could make the same mistake
+- **Medical negligence**, so the professional standard applies: the **Bolam test**.
+  - *Bolam v Friern Hospital Management Committee* [1957] 1 WLR 582: a doctor is **not negligent** if they acted **in accordance with a practice accepted as proper by a responsible body of medical opinion**.
+  - **For D:** the experts testify that a responsible body of emergency doctors **could reasonably mistake** this for a sprain. That argues for **no breach**.
+- **But there is the *Bolitho* exception:** *Bolitho v City and Hackney HA* [1998] AC 232. Even if a body of medical opinion supports D, the **court can reject it** if it **does not withstand logical analysis**, i.e. it is **not a "responsible" body of opinion**.
+  - The doctor **failed to check a standard anatomical landmark visible on the X-ray**. That is a **failure to meet the standard of care of doctors**, even if it is a **common mistake**.
+  - "Other doctors make the same mistake" is **not the same as a responsible body of opinion supporting a practice**. It is **simply an excuse for medical negligence**.
+  - Not checking the X-ray properly is **illogical and indefensible**. What happened was a **mistake, not a logical, defensible practice**.
+  - **D's best argument:** treating it as a soft-tissue sprain is a **responsible alternative practice**.
+- **Likely breach.**
+
+---
+
+### Q7. A delivery driver slips on a freshly mopped lobby floor; there was only one wet-floor cone, by the front door
+- **Apply the breach factors (cost–benefit analysis):**
+  - **Probability of harm: high.** The floor was freshly mopped and slick, in a **busy** lobby with people heading to the **elevators**.
+  - **Seriousness of harm:** the **risk of injury is reasonably high**. Slips cause fractures.
+  - **Cost of precautions: very minimal**, e.g. **more cones**, cordoning off the area, or mopping in sections. Only one cone was placed, **near the front door**, and the **elevator area was completely unmarked**.
+  - *Linked:* contrast *Latimer v AEC* [1953]. After a flood, the factory spread sawdust on the slippery floor but some patches remained. **No breach**, because the only further precaution was **closing the factory**, which was disproportionate. Here, further precautions were **cheap**.
+  - D need not take **extreme precautions**, but these were not extreme.
+- **Likely breach** by the maintenance contractor.
+- **Contributory negligence (CN) of the driver:** he was **rushing** and **looking at his clipboard**, not where he was going.
+  - The CN is **fairly minor**, since he wasn't doing anything extremely irresponsible. Expect a **5–10% reduction** in damages. **[CHECK: HK apportionment under LARCO (Cap 23) s 21; covered in Week 10 (Defences)]**
+- **Occupier:** the building owner may also be liable under the **Occupiers Liability Ordinance (Cap 314)**. **[CHECK whether in syllabus]**
+
+---
+
+### Tutorial: quick summary
+
+| Q | D | Standard | Likely outcome |
+|---|---|---|---|
+| 1(a) | Leo, 10 | Reasonable 10-year-old | **Breach** (arguable) |
+| 1(b) | Sam, severe cognitive disability | Reasonable adult; exception only if **total** lack of capacity | **Depends on severity**; possibly no breach |
+| 1(c) | Marcus, master carpenter | Raised: he **professed** expert skill | **Clear breach** |
+| 2 | Roadside helper | Reasonably competent person changing a tyre (not a mechanic) | **Breach** (omitted a key step) |
+| 3 | Voluntary rescuer | Reasonable layperson in an emergency | **Probably no breach** (not reckless) |
+| 4 | Police driver | Reasonable police driver in an emergency | **Strong breach** |
+| 5 | Teacher | Reasonable teacher; age of pupils matters | **Breach more likely** |
+| 6 | ER doctor | *Bolam*, subject to *Bolitho* | **Likely breach** |
+| 7 | Maintenance contractor | Reasonable contractor; probability, magnitude, cost | **Breach**; CN of 5–10% |
 
 ---
 
@@ -1334,6 +1487,11 @@ Each case brief (📘 Facts / Issue / Rule / Held) appears in the notes **where 
 | *Nettleship v Weston* [1971] 2 QB 691 (CA) | §25.2 |
 | *McHale v Watson* (1966) 115 CLR 199; [1966] ALR 513 (High Court of Australia) | §25.3 |
 | *Mullin v Richards* [1998] 1 WLR 1304 (CA) | §25.3 |
+| *Bolam v Friern Hospital Management Committee* [1957] 1 WLR 582 | §26 Q6 |
+| *Bolitho v City and Hackney HA* [1998] AC 232 | §26 Q6 |
+| *Mansfield v Weetabix* [1998]; *Dunnage v Randall* [2015] *(linked)* | §26 Q1(b) |
+| *Wells v Cooper* [1958] *(linked)* | §26 Q2 |
+| *Paris v Stepney BC* [1951]; *Latimer v AEC* [1953]; *Watt v Hertfordshire CC* [1954] *(linked)* | §26.0, Q4, Q7 |
 
 **Cases mentioned only inside quotations:** *Marc Rich v Bishop Rock Marine* [1996] AC 211 · *Canadian National Railway v Norsk Pacific* [1992] 1 SCR 1021 · *Minories Finance v Arthur Young* [1989] 2 All ER 105 · *White v Jones* [1995] · *McFarlane v Tayside Health Board* [2000] · *Law Society v KPMG* [2000] · *Z v United Kingdom* [2002] · *South Pacific Manufacturing v NZ Security Consultants* [1992] · *Murphy v Brentwood DC* [1991]. These are cited for background only; no brief is needed unless your tutor stresses them.
 
@@ -1376,6 +1534,7 @@ Each case brief (📘 Facts / Issue / Rule / Held) appears in the notes **where 
 | Scope | *Caparo* (kind of damage) · *Darnley* (extended) · *Mitchell* (not) · *Pickersgill* (variable) · *Khan v Meadows* [38] |
 | Breach | Standard (law) → fell short? (fact); no hindsight |
 | Reasonable person | Not the average person; *Blyth*; *Bolton v Stone* |
+| Breach tutorial (§26) | Template: standard (law) → adjusted? → factors (probability, magnitude, cost, utility, practice) → no hindsight → argue both ways → CN |
 | Standard adjusted? | Not for inexperience or incapacity (*Nettleship*); lowered for children (*McHale*, *Mullin*); raised for skills |
 
 ## Appendix D — Open questions (check against slides)
@@ -1388,6 +1547,8 @@ Each case brief (📘 Facts / Issue / Rule / Held) appears in the notes **where 
 7. The **drug dealers** illegality case (§14).
 8. The **McDonald's** case (§5).
 9. HK cases on who can be sued (§11.2): facts not covered; see the 📘 box in §11.2.
+10. The **rare brain condition** case in the tutorial (§26 Q1(b)). Is it *Mansfield v Weetabix*?
+11. Confirm the **linked breach cases** in §26 against the breach slides.
 
 ## Appendix E — Reading list
 
